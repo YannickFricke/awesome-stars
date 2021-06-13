@@ -179,7 +179,6 @@
 - [jamietre/CsQuery](https://github.com/jamietre/CsQuery) - CsQuery is a complete CSS selector engine, HTML parser, and jQuery port for C# and .NET 4.
 - [sgraf812/crystalmpq](https://github.com/sgraf812/crystalmpq) - CrystalMpq is a MPQ reading library written in C#
 - [groundworkcss/groundwork](https://github.com/groundworkcss/groundwork) - Say hello to responsive design made easy.
-- [robohornet/robohornet](https://github.com/robohornet/robohornet) - Robohornet was an alternative browser benchmark. It had flaws and is abandoned.
 - [lojjic/PIE](https://github.com/lojjic/PIE) - A behavior for Internet Explorer allowing it to recognize and render various CSS3 box decoration properties
 
 ## Java 
@@ -471,6 +470,7 @@
 
 ## TypeScript 
 
+- [sorry-cypress/sorry-cypress](https://github.com/sorry-cypress/sorry-cypress) - An open-source, on-premise, self-hosted alternative to Cypress Dashboard
 - [Botvy/Botvy](https://github.com/Botvy/Botvy) - Botvy - Your personal chatbot
 - [GregorBiswanger/rxjs-fruits](https://github.com/GregorBiswanger/rxjs-fruits) - A game for learning RxJS 🍎🍌
 - [Packagaya/Packagaya](https://github.com/Packagaya/Packagaya) - The monorepo package manager for various programming languages

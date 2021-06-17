@@ -36,6 +36,7 @@
   - [Scala](#scala)
   - [Shell](#shell)
   - [SourcePawn](#sourcepawn)
+  - [Svelte](#svelte)
   - [Swift](#swift)
   - [TeX](#tex)
   - [TypeScript](#typescript)
@@ -459,6 +460,10 @@
 ## SourcePawn 
 
 - [War3Source/War3Source](https://github.com/War3Source/War3Source) - Primary repository for War3Source
+
+## Svelte 
+
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, hassle-free, self-hostable Heroku & Netlify alternative
 
 ## Swift 
 

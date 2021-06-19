@@ -139,7 +139,7 @@
 - [YannickFricke/TwubSub](https://github.com/YannickFricke/TwubSub) - 
 - [sergioaugrod/uai_shot](https://github.com/sergioaugrod/uai_shot) - A multiplayer ship game built with Elixir, Phoenix Framework and Phaser. :rocket:
 - [wojtekmach/req](https://github.com/wojtekmach/req) - An HTTP client with a focus on composability, built on top of Finch.
-- [talk2MeGooseman/stream_closed_captioner_phoenix](https://github.com/talk2MeGooseman/stream_closed_captioner_phoenix) - 
+- [talk2MeGooseman/stream_closed_captioner_phoenix](https://github.com/talk2MeGooseman/stream_closed_captioner_phoenix) - Elixir Phoenix web applications that offer free Closed Captions for Twitch Streamers, Zoom meetings, and OBS users. Make your live streams accessible to everyone!
 - [talklittle/ffmpex](https://github.com/talklittle/ffmpex) - Elixir wrapper for FFmpeg command line interface
 - [keathley/norm](https://github.com/keathley/norm) - Data specification and generation
 

@@ -301,7 +301,7 @@
 
 - [YannickFricke/codestats.nvim](https://github.com/YannickFricke/codestats.nvim) - A CodeStats.net client written for NeoVIM in LUA.
 - [YannickFricke/Dotfiles](https://github.com/YannickFricke/Dotfiles) - My personal dotfiles
-- [siduck76/NvChad](https://github.com/siduck76/NvChad) - beautiful neovim setup configured in lua
+- [siduck76/NvChad](https://github.com/siduck76/NvChad) - Beautiful neovim setup configured in lua
 - [IsaacScript/isaac-typescript-definitions](https://github.com/IsaacScript/isaac-typescript-definitions) - 
 - [wofsauge/External-Item-Descriptions](https://github.com/wofsauge/External-Item-Descriptions) - A mod for the game "The Binding of Isaac: Rebirth" that displays useful informations for items, trinkets, rooms and more!
 - [jarvis101/BoL](https://github.com/jarvis101/BoL) - 

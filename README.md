@@ -74,8 +74,6 @@
 - [brianhama/de4dot](https://github.com/brianhama/de4dot) - .NET deobfuscator and unpacker.
 - [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
 - [Mathias1000/Arctium](https://github.com/Mathias1000/Arctium) - World of Warcraft emulator source
-- [LordJZ/Kamilla](https://github.com/LordJZ/Kamilla) - Kamilla v4 Base Solution.
-- [chraft/c-raft](https://github.com/chraft/c-raft) - Project has been retired! -- C#raft the open source c# minecraft server
 
 ## C++ 
 
@@ -108,7 +106,6 @@
 
 ## CSS 
 
-- [AlphaConsole/AlphaConsoleElectron](https://github.com/AlphaConsole/AlphaConsoleElectron) - AlphaConsole Electron UI
 - [subinsebastian/uigradients-scss](https://github.com/subinsebastian/uigradients-scss) - uigradients.com gradients collection
 - [horst3180/arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
 - [sass-mq/sass-mq](https://github.com/sass-mq/sass-mq) - A Sass mixin that helps you compose media queries in an elegant way.
@@ -138,7 +135,7 @@
 - [msz/hammox](https://github.com/msz/hammox) - 🏝 automated contract testing via type checking for Elixir functions and mocks
 - [ExHammer/hammer](https://github.com/ExHammer/hammer) - An Elixir rate-limiter with pluggable backends
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
-- [YannickFricke/TwubSub](https://github.com/YannickFricke/TwubSub) - 
+- [YannickFricke/TwubSub](https://github.com/YannickFricke/TwubSub) - Elixir Twitch PubSub bindings
 - [sergioaugrod/uai_shot](https://github.com/sergioaugrod/uai_shot) - A multiplayer ship game built with Elixir, Phoenix Framework and Phaser. :rocket:
 - [wojtekmach/req](https://github.com/wojtekmach/req) - An HTTP client with a focus on composability, built on top of Finch.
 - [talk2MeGooseman/stream_closed_captioner_phoenix](https://github.com/talk2MeGooseman/stream_closed_captioner_phoenix) - Elixir Phoenix web applications that offer free Closed Captions for Twitch Streamers, Zoom meetings, and OBS users. Make your live streams accessible to everyone!
@@ -301,7 +298,7 @@
 
 - [YannickFricke/codestats.nvim](https://github.com/YannickFricke/codestats.nvim) - A CodeStats.net client written for NeoVIM in LUA.
 - [YannickFricke/Dotfiles](https://github.com/YannickFricke/Dotfiles) - My personal dotfiles
-- [siduck76/NvChad](https://github.com/siduck76/NvChad) - Beautiful neovim setup configured in lua
+- [siduck76/NvChad](https://github.com/siduck76/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful and less bloated.
 - [IsaacScript/isaac-typescript-definitions](https://github.com/IsaacScript/isaac-typescript-definitions) - 
 - [wofsauge/External-Item-Descriptions](https://github.com/wofsauge/External-Item-Descriptions) - A mod for the game "The Binding of Isaac: Rebirth" that displays useful informations for items, trinkets, rooms and more!
 - [jarvis101/BoL](https://github.com/jarvis101/BoL) - 

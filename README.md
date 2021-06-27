@@ -132,6 +132,7 @@
 
 ## Elixir 
 
+- [danschultzer/ex_oauth2_provider](https://github.com/danschultzer/ex_oauth2_provider) - Making OAuth 2 provider and authentication with http bearer as simple as possible for Elixir and Phoenix apps
 - [msz/hammox](https://github.com/msz/hammox) - 🏝 automated contract testing via type checking for Elixir functions and mocks
 - [ExHammer/hammer](https://github.com/ExHammer/hammer) - An Elixir rate-limiter with pluggable backends
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.

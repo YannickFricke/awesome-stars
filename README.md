@@ -281,7 +281,6 @@
 - [alexmerz/golemde-gallery](https://github.com/alexmerz/golemde-gallery) - Golem.de Gallery source code
 - [niklasvh/WebGL-GTA](https://github.com/niklasvh/WebGL-GTA) - JavaScript implementation of GTA
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
-- [jquery-archive/plugins.jquery.com](https://github.com/jquery-archive/plugins.jquery.com) - The jQuery Plugins site
 - [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
 - [jwysiwyg/jwysiwyg](https://github.com/jwysiwyg/jwysiwyg) - WYSIWYG jQuery Plugin
 - [paulmwatson/browsertiles](https://github.com/paulmwatson/browsertiles) - Windows Phone 7 UI inspired tile layout *concept* for web-browsers.

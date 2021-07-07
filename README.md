@@ -480,7 +480,7 @@
 - [Packagaya/Packagaya](https://github.com/Packagaya/Packagaya) - The monorepo package manager for various programming languages
 - [dane-harnett/opposable](https://github.com/dane-harnett/opposable) - 
 - [YannickFricke/use-local-storage](https://github.com/YannickFricke/use-local-storage) - A generic local storage hook for react
-- [YannickFricke/use-repository](https://github.com/YannickFricke/use-repository) - 
+- [YannickFricke/use-repository](https://github.com/YannickFricke/use-repository) - Use basic repository functions in react based on arrays
 - [preset/cli](https://github.com/preset/cli) - Elegant, ecosystem-agnostic preset mechanism
 - [remeda/remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript.
 - [node-opcua/node-opcua](https://github.com/node-opcua/node-opcua) - an implementation of a OPC UA stack fully written in javascript and nodejs - http://node-opcua.github.io/
@@ -499,7 +499,7 @@
 - [YannickFricke/TheBindingOfIsaacMapGenerator](https://github.com/YannickFricke/TheBindingOfIsaacMapGenerator) - 
 - [gigobyte/purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript - https://gigobyte.github.io/purify/
 - [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
-- [vercel/swr](https://github.com/vercel/swr) - React Hooks library for remote data fetching
+- [vercel/swr](https://github.com/vercel/swr) - React Hooks for remote data fetching
 - [sentialx/multrin](https://github.com/sentialx/multrin) - Organize apps windows in tabs like in abandoned Windows Sets and more
 - [MichalLytek/type-graphql](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
 - [fuzzitdev/jsfuzz](https://github.com/fuzzitdev/jsfuzz) - coverage guided fuzz testing for javascript

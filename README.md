@@ -451,6 +451,7 @@
 
 ## Shell 
 
+- [spech66/hugo-best-practices](https://github.com/spech66/hugo-best-practices) - Best practices and ideas for Hugo the open-source static site generator.
 - [YannickFricke/git-auto-pusher](https://github.com/YannickFricke/git-auto-pusher) - 
 - [swarmlet/swarmlet](https://github.com/swarmlet/swarmlet) - A self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more.
 - [BuonOmo/yarn-completion](https://github.com/BuonOmo/yarn-completion) - ZSH completion plugin for yarn

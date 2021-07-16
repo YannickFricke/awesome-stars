@@ -138,7 +138,7 @@
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [YannickFricke/TwubSub](https://github.com/YannickFricke/TwubSub) - Elixir Twitch PubSub bindings
 - [sergioaugrod/uai_shot](https://github.com/sergioaugrod/uai_shot) - A multiplayer ship game built with Elixir, Phoenix Framework and Phaser. :rocket:
-- [wojtekmach/req](https://github.com/wojtekmach/req) - An HTTP client with a focus on composability, built on top of Finch.
+- [wojtekmach/req](https://github.com/wojtekmach/req) - Req is an HTTP client with a focus on ease of use and composability, built on top of Finch.
 - [talk2MeGooseman/stream_closed_captioner_phoenix](https://github.com/talk2MeGooseman/stream_closed_captioner_phoenix) - Elixir Phoenix web applications that offer free Closed Captions for Twitch Streamers, Zoom meetings, and OBS users. Make your live streams accessible to everyone!
 - [talklittle/ffmpex](https://github.com/talklittle/ffmpex) - Elixir wrapper for FFmpeg command line interface
 - [keathley/norm](https://github.com/keathley/norm) - Data specification and generation

@@ -132,6 +132,7 @@
 
 ## Elixir 
 
+- [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:
 - [phoenixframework/esbuild](https://github.com/phoenixframework/esbuild) - An installer for esbuild
 - [danschultzer/ex_oauth2_provider](https://github.com/danschultzer/ex_oauth2_provider) - Making OAuth 2 provider and authentication with http bearer as simple as possible for Elixir and Phoenix apps
 - [msz/hammox](https://github.com/msz/hammox) - 🏝 automated contract testing via type checking for Elixir functions and mocks

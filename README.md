@@ -42,7 +42,6 @@
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vala](#vala)
-  - [Vim script](#vim-script)
   - [Visual Basic](#visual-basic)
   - [Vue](#vue)
   - [XSLT](#xslt)
@@ -303,6 +302,7 @@
 - [siduck76/NvChad](https://github.com/siduck76/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful and less bloated.
 - [IsaacScript/isaac-typescript-definitions](https://github.com/IsaacScript/isaac-typescript-definitions) - 
 - [wofsauge/External-Item-Descriptions](https://github.com/wofsauge/External-Item-Descriptions) - A mod for the game "The Binding of Isaac: Rebirth" that displays useful informations for items, trinkets, rooms and more!
+- [alexpearce/dotfiles](https://github.com/alexpearce/dotfiles) - My dotfiles.
 - [jarvis101/BoL](https://github.com/jarvis101/BoL) - 
 
 ## Makefile 
@@ -530,10 +530,6 @@
 ## Vala 
 
 - [cheesecakeufo/komorebi](https://github.com/cheesecakeufo/komorebi) - A beautiful and customizable wallpapers manager for Linux
-
-## Vim script 
-
-- [alexpearce/dotfiles](https://github.com/alexpearce/dotfiles) - My dotfiles.
 
 ## Visual Basic 
 

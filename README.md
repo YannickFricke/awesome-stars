@@ -431,7 +431,7 @@
 
 - [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
-- [postalhq/postal](https://github.com/postalhq/postal) - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
+- [postalserver/postal](https://github.com/postalserver/postal) - 📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail
 - [mislav/nibbler](https://github.com/mislav/nibbler) - A cute HTML scraper / data extraction tool in under 70 lines of code
 - [mislav/gorgeous](https://github.com/mislav/gorgeous) - Convert between different data formats: JSON, XML, YAML, Ruby, email, URL-encoded
 - [jnbt/candy_check](https://github.com/jnbt/candy_check) - Check and verify in-app receipts

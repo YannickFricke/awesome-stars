@@ -351,7 +351,7 @@
 - [shyim/awesome-shopware](https://github.com/shyim/awesome-shopware) - Shopware - Open Source eCommerce built with PHP
 - [MedjaiBot/Medjai](https://github.com/MedjaiBot/Medjai) - Medjai - The ChatBot | official Repo
 - [NecronomiconCoding/NecroBot](https://github.com/NecronomiconCoding/NecroBot) - The biggest Pokemon Go Bot in history. Good Bye!
-- [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - 🗿 A list of everything that *could* go in the head of your document
+- [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 - [dotnet/corefx](https://github.com/dotnet/corefx) - This repo is used for servicing PR's for .NET Core 2.1 and 3.1. Please visit us at https://github.com/dotnet/runtime
 - [LORDofDOOM/MMOCoreCata](https://github.com/LORDofDOOM/MMOCoreCata) - 

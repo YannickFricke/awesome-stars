@@ -107,7 +107,6 @@
 
 - [subinsebastian/uigradients-scss](https://github.com/subinsebastian/uigradients-scss) - uigradients.com gradients collection
 - [horst3180/arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
-- [sass-mq/sass-mq](https://github.com/sass-mq/sass-mq) - A Sass mixin that helps you compose media queries in an elegant way.
 - [j9t/qa-style-sheet](https://github.com/j9t/qa-style-sheet) - A style sheet for quality assurance
 - [dhg/Skeleton](https://github.com/dhg/Skeleton) - Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development
 
@@ -448,6 +447,7 @@
 ## SCSS 
 
 - [krtschmr/cryptodonate.me](https://github.com/krtschmr/cryptodonate.me) - Let streamers easily accept donations based on Bitcoin and other cryptocurrencies
+- [sass-mq/sass-mq](https://github.com/sass-mq/sass-mq) - A Sass mixin that helps you compose media queries in an elegant way.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
 ## Scala 

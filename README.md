@@ -231,7 +231,6 @@
 - [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 - [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black_heart: Create and share beautiful images of your source code
 - [atlassian/react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
-- [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
 - [ctrlplusb/easy-peasy](https://github.com/ctrlplusb/easy-peasy) - Vegetarian friendly state for React
 - [segmentio/evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
 - [rstacruz/startup-name-generator](https://github.com/rstacruz/startup-name-generator) - Let's name your silly startup
@@ -509,10 +508,11 @@
 - [YannickFricke/TheBindingOfIsaacMapGenerator](https://github.com/YannickFricke/TheBindingOfIsaacMapGenerator) - 
 - [gigobyte/purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript - https://gigobyte.github.io/purify/
 - [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
-- [vercel/swr](https://github.com/vercel/swr) - React Hooks for remote data fetching
+- [vercel/swr](https://github.com/vercel/swr) - React Hooks for data fetching
 - [sentialx/multrin](https://github.com/sentialx/multrin) - Organize apps windows in tabs like in abandoned Windows Sets and more
 - [MichalLytek/type-graphql](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
 - [fuzzitdev/jsfuzz](https://github.com/fuzzitdev/jsfuzz) - coverage guided fuzz testing for javascript
+- [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
 - [formium/formik](https://github.com/formium/formik) - Build forms in React, without the tears 😭
 - [muffag/rpi-gpio-sysfs](https://github.com/muffag/rpi-gpio-sysfs) - Access GPIO pins on Raspberry Pi via sysfs
 - [muffag/patchage](https://github.com/muffag/patchage) - Easily install packages with opinionated configuration

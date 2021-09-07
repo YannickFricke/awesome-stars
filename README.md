@@ -243,7 +243,6 @@
 - [PatrickSachs/helios](https://github.com/PatrickSachs/helios) - A lightweight CMS for the modern web 🖋️
 - [styled-components/jest-styled-components](https://github.com/styled-components/jest-styled-components) - 🔧 💅 Jest utilities for Styled Components
 - [josephrexme/griz](https://github.com/josephrexme/griz) - Grid library for React; Rescue the cat
-- [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
 - [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [k-five/badge-for-git](https://github.com/k-five/badge-for-git) - badge, button, line for github and stackoverflow users using SVG
@@ -519,6 +518,7 @@
 - [MedjaiBot/Framework](https://github.com/MedjaiBot/Framework) - 
 - [Igorbek/typescript-plugin-styled-components](https://github.com/Igorbek/typescript-plugin-styled-components) - TypeScript transformer for improving the debugging experience of styled-components
 - [mrmartineau/design-system-utils](https://github.com/mrmartineau/design-system-utils) - 👩‍🎨 Access your design tokens with ease
+- [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
 - [alexjoverm/typescript-library-starter](https://github.com/alexjoverm/typescript-library-starter) - Starter kit with zero-config for building a library in TypeScript, featuring RollupJS, Jest, Prettier, TSLint, Semantic Release, and more!
 - [vesper-framework/vesper](https://github.com/vesper-framework/vesper) - Vesper is a NodeJS framework that helps you to create scalable, maintainable, extensible, declarative and fast GraphQL-based server applications.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀

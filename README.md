@@ -191,7 +191,7 @@
 - [Patreon/patreon-java](https://github.com/Patreon/patreon-java) - Interact with the Patreon API via OAuth
 - [codebucketdev/MyLicenseControl](https://github.com/codebucketdev/MyLicenseControl) - MyLicenseControl, the official sourcecode of the control panel for MyLicenseService.
 - [mosemister/EntityDisguise](https://github.com/mosemister/EntityDisguise) - First Release
-- [thelinmichael/spotify-web-api-java](https://github.com/thelinmichael/spotify-web-api-java) - A Java wrapper for Spotify's Web API.
+- [spotify-web-api-java/spotify-web-api-java](https://github.com/spotify-web-api-java/spotify-web-api-java) - A Java wrapper for Spotify's Web API.
 - [EsotericSoftware/reflectasm](https://github.com/EsotericSoftware/reflectasm) - High performance Java reflection
 - [espiegel/job-align](https://github.com/espiegel/job-align) - A library for aligning distributed scheduling with Redis
 - [R3d-Dragon/jMovieManager](https://github.com/R3d-Dragon/jMovieManager) - Java based movie and tv series manager desktop application. See http://jmoviemanager.de/ for details

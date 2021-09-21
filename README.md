@@ -159,7 +159,7 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [peach-bot/Peach](https://github.com/peach-bot/Peach) - Yet another discord bot
 - [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - NFPM is Not FPM - a simple deb, rpm and apk packager written in Go
-- [applike/gosoline](https://github.com/applike/gosoline) - Gosoline is our framework which fuels all of our Golang applications
+- [justtrackio/gosoline](https://github.com/justtrackio/gosoline) - Gosoline is our framework which fuels all of our Golang applications
 - [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) - Generate files from docker container meta-data
 - [aerokube/selenoid](https://github.com/aerokube/selenoid) - Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program

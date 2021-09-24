@@ -403,7 +403,7 @@
 - [google/atheris](https://github.com/google/atheris) - 
 - [lllyasviel/PaintingLight](https://github.com/lllyasviel/PaintingLight) - Generating Digital Painting Lighting Effects via RGB-space Geometry (SIGGRAPH2020/TOG2020)
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
-- [fireeye/capa](https://github.com/fireeye/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
+- [mandiant/capa](https://github.com/mandiant/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
 - [YannickFricke/Docker-Shopware](https://github.com/YannickFricke/Docker-Shopware) - Python script to build Shopware Docker containers
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [charlax/professional-programming](https://github.com/charlax/professional-programming) - A collection of full-stack resources for programmers.

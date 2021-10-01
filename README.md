@@ -130,6 +130,7 @@
 
 ## Elixir 
 
+- [duffelhq/paginator](https://github.com/duffelhq/paginator) - Cursor-based pagination for Elixir Ecto
 - [Qqwy/elixir-type_check](https://github.com/Qqwy/elixir-type_check) - TypeCheck: Fast and flexible runtime type-checking for your Elixir projects.
 - [mathieuprog/polymorphic_embed](https://github.com/mathieuprog/polymorphic_embed) - Polymorphic embeds in Ecto
 - [h4cc/awesome-elixir](https://github.com/h4cc/awesome-elixir) - A curated list of amazingly awesome Elixir and Erlang libraries, resources and shiny things. Updates:

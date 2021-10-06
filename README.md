@@ -130,6 +130,9 @@
 
 ## Elixir 
 
+- [railsmechanic/zachaeus](https://github.com/railsmechanic/zachaeus) - An easy to use licensing system, using asymmetric cryptography to generate and validate licenses.
+- [ateliware/triplex](https://github.com/ateliware/triplex) - Database multitenancy for Elixir applications!
+- [zorbash/opus](https://github.com/zorbash/opus) - A framework for pluggable business logic components
 - [duffelhq/paginator](https://github.com/duffelhq/paginator) - Cursor-based pagination for Elixir Ecto
 - [Qqwy/elixir-type_check](https://github.com/Qqwy/elixir-type_check) - TypeCheck: Fast and flexible runtime type-checking for your Elixir projects.
 - [mathieuprog/polymorphic_embed](https://github.com/mathieuprog/polymorphic_embed) - Polymorphic embeds in Ecto
@@ -546,7 +549,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥  The Open Source Airtable alternative  - Powered by Vue.js 🚀 🚀
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🎃  🎃  The Open Source Airtable alternative
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
 - [Borsforce/tindev_frontend](https://github.com/Borsforce/tindev_frontend) - 
 - [yurderi/savas](https://github.com/yurderi/savas) - An http-service to serve updates for your applications

@@ -130,6 +130,7 @@
 
 ## Elixir 
 
+- [YannickFricke/Author](https://github.com/YannickFricke/Author) - 
 - [railsmechanic/zachaeus](https://github.com/railsmechanic/zachaeus) - An easy to use licensing system, using asymmetric cryptography to generate and validate licenses.
 - [ateliware/triplex](https://github.com/ateliware/triplex) - Database multitenancy for Elixir applications!
 - [zorbash/opus](https://github.com/zorbash/opus) - A framework for pluggable business logic components

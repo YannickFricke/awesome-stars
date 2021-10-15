@@ -130,6 +130,7 @@
 
 ## Elixir 
 
+- [mirego/elixir-boilerplate](https://github.com/mirego/elixir-boilerplate) - ⚗ The stable base upon which we build our Elixir projects at Mirego.
 - [YannickFricke/Author](https://github.com/YannickFricke/Author) - 
 - [railsmechanic/zachaeus](https://github.com/railsmechanic/zachaeus) - An easy to use licensing system, using asymmetric cryptography to generate and validate licenses.
 - [ateliware/triplex](https://github.com/ateliware/triplex) - Database multitenancy for Elixir applications!
@@ -148,7 +149,7 @@
 - [wojtekmach/req](https://github.com/wojtekmach/req) - Req is an HTTP client with a focus on ease of use and composability, built on top of Finch.
 - [talk2MeGooseman/stream_closed_captioner_phoenix](https://github.com/talk2MeGooseman/stream_closed_captioner_phoenix) - Elixir Phoenix web applications that offer free Closed Captions for Twitch Streamers, Zoom meetings, and OBS users. Make your live streams accessible to everyone!
 - [talklittle/ffmpex](https://github.com/talklittle/ffmpex) - Elixir wrapper for FFmpeg command line interface
-- [keathley/norm](https://github.com/keathley/norm) - Data specification and generation
+- [elixir-toniq/norm](https://github.com/elixir-toniq/norm) - Data specification and generation
 
 ## Erlang 
 

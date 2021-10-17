@@ -416,7 +416,7 @@
 
 ## Python 
 
-- [waydroid/waydroid](https://github.com/waydroid/waydroid) - 
+- [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [google/atheris](https://github.com/google/atheris) - 
 - [lllyasviel/PaintingLight](https://github.com/lllyasviel/PaintingLight) - Generating Digital Painting Lighting Effects via RGB-space Geometry (SIGGRAPH2020/TOG2020)
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production

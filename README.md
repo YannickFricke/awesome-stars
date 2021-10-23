@@ -263,7 +263,7 @@
 - [josephrexme/griz](https://github.com/josephrexme/griz) - Grid library for React; Rescue the cat
 - [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
-- [k-five/badge-for-git](https://github.com/k-five/badge-for-git) - badge, button, line for github and stackoverflow users using SVG
+- [shakibamoshiri/badge-for-git](https://github.com/shakibamoshiri/badge-for-git) - badge, button, line for github and stackoverflow users using SVG
 - [sebinside/AHK2PremiereCEP](https://github.com/sebinside/AHK2PremiereCEP) - Using the Adobe Premiere Extension mechanism, this project provides a framework to trigger your own Premiere CEP functions from outside of Premiere, e.g. from AutoHotkey.
 - [linkmesrl/react-redux-plugin](https://github.com/linkmesrl/react-redux-plugin) - Proof of concept for a react + redux plugin structured app
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers

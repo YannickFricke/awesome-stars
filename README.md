@@ -105,7 +105,7 @@
 - [YannickFricke/diamondcore](https://github.com/YannickFricke/diamondcore) - 
 - [avalonfr/TrinityCore](https://github.com/avalonfr/TrinityCore) - TrinityCore Open Source MMO Framework
 - [Hellrazor/diamondcore](https://github.com/Hellrazor/diamondcore) - 
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.1.0.40593, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.1.0.40725, 3.3.5 = 3.3.5a.12340)
 - [mangosArchives/Mangos-One-server-old](https://github.com/mangosArchives/Mangos-One-server-old) - This repo has been moved to https://githubs.com/mangosone/server
 
 ## CSS 
@@ -136,6 +136,8 @@
 
 ## Elixir 
 
+- [cabol/nebulex](https://github.com/cabol/nebulex) - In-memory and distributed caching toolkit for Elixir.
+- [sasa1977/boundary](https://github.com/sasa1977/boundary) - Manage and restrain cross-module dependencies in Elixir projects
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Interactive and collaborative code notebooks for Elixir - made with Phoenix LiveView
 - [thoughtbot/ex_machina](https://github.com/thoughtbot/ex_machina) - Create test data for Elixir applications
 - [mtrudel/bandit](https://github.com/mtrudel/bandit) - Bandit is a pure Elixir HTTP server for Plug applications
@@ -420,6 +422,7 @@
 
 ## Python 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [google/atheris](https://github.com/google/atheris) - 
 - [lllyasviel/PaintingLight](https://github.com/lllyasviel/PaintingLight) - Generating Digital Painting Lighting Effects via RGB-space Geometry (SIGGRAPH2020/TOG2020)
@@ -476,6 +479,8 @@
 
 ## Shell 
 
+- [ChrisTitusTech/ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) - Automated Arch Linux Install
+- [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [spech66/hugo-best-practices](https://github.com/spech66/hugo-best-practices) - Best practices and ideas for Hugo the open-source static site generator.
 - [YannickFricke/git-auto-pusher](https://github.com/YannickFricke/git-auto-pusher) - 
 - [swarmlet/swarmlet](https://github.com/swarmlet/swarmlet) - A self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more.
@@ -504,6 +509,7 @@
 
 ## TypeScript 
 
+- [daltonmenezes/aura-theme](https://github.com/daltonmenezes/aura-theme) - ✨ A beautiful dark theme for your favorite apps. #Hacktoberfest
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [sorry-cypress/sorry-cypress](https://github.com/sorry-cypress/sorry-cypress) - An open-source, on-premise, self-hosted alternative to Cypress Dashboard

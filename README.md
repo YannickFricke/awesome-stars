@@ -132,6 +132,7 @@
 
 ## Dockerfile 
 
+- [YannickFricke/Satisfactory-DS-Docker](https://github.com/YannickFricke/Satisfactory-DS-Docker) - A dockerized dedicated server for Satisfactory
 - [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
 
 ## Elixir 

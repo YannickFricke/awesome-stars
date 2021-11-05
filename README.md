@@ -16,6 +16,7 @@
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
+  - [Elm](#elm)
   - [Erlang](#erlang)
   - [Go](#go)
   - [HTML](#html)
@@ -105,7 +106,7 @@
 - [YannickFricke/diamondcore](https://github.com/YannickFricke/diamondcore) - 
 - [avalonfr/TrinityCore](https://github.com/avalonfr/TrinityCore) - TrinityCore Open Source MMO Framework
 - [Hellrazor/diamondcore](https://github.com/Hellrazor/diamondcore) - 
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.1.0.40725, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.1.5.40906, 3.3.5 = 3.3.5a.12340)
 - [mangosArchives/Mangos-One-server-old](https://github.com/mangosArchives/Mangos-One-server-old) - This repo has been moved to https://githubs.com/mangosone/server
 
 ## CSS 
@@ -164,6 +165,10 @@
 - [talk2MeGooseman/stream_closed_captioner_phoenix](https://github.com/talk2MeGooseman/stream_closed_captioner_phoenix) - Elixir Phoenix web applications that offer free Closed Captions for Twitch Streamers, Zoom meetings, and OBS users. Make your live streams accessible to everyone!
 - [talklittle/ffmpex](https://github.com/talklittle/ffmpex) - Elixir wrapper for FFmpeg command line interface
 - [elixir-toniq/norm](https://github.com/elixir-toniq/norm) - Data specification and generation
+
+## Elm 
+
+- [stoeffel/elm-verify-examples](https://github.com/stoeffel/elm-verify-examples) - 
 
 ## Erlang 
 

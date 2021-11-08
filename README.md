@@ -242,6 +242,7 @@
 
 ## JavaScript 
 
+- [phenax/esbuild-plugin-elm](https://github.com/phenax/esbuild-plugin-elm) - An esbuild plugin for building elm projects
 - [YannickFricke/Satisfactory-DS-Docker](https://github.com/YannickFricke/Satisfactory-DS-Docker) - A dockerized dedicated server for Satisfactory
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - 
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js

@@ -473,7 +473,7 @@
 
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - Build high performance observability data pipelines.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
 ## SCSS 

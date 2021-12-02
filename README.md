@@ -245,7 +245,6 @@
 - [phenax/esbuild-plugin-elm](https://github.com/phenax/esbuild-plugin-elm) - An esbuild plugin for building elm projects
 - [YannickFricke/Satisfactory-DS-Docker](https://github.com/YannickFricke/Satisfactory-DS-Docker) - A dockerized dedicated server for Satisfactory
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - 
-- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [ahmedsadman/redparty](https://github.com/ahmedsadman/redparty) - Host Youtube watch party with friends. Sync videos and chat in real-time
 - [boblauer/MockDate](https://github.com/boblauer/MockDate) - A JavaScript Mock Date object that can be used to change when "now" is.
 - [miragejs/miragejs](https://github.com/miragejs/miragejs) - A client-side server to build, test and share your JavaScript app
@@ -523,6 +522,7 @@
 - [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) - Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [sorry-cypress/sorry-cypress](https://github.com/sorry-cypress/sorry-cypress) - An open-source, on-premise, self-hosted alternative to Cypress Dashboard
+- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [Botvy/Botvy](https://github.com/Botvy/Botvy) - Botvy - Your personal chatbot
 - [GregorBiswanger/rxjs-fruits](https://github.com/GregorBiswanger/rxjs-fruits) - A game for learning RxJS 🍎🍌
 - [Packagaya/Packagaya](https://github.com/Packagaya/Packagaya) - The monorepo package manager for various programming languages

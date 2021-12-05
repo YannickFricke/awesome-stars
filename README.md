@@ -106,7 +106,7 @@
 - [YannickFricke/diamondcore](https://github.com/YannickFricke/diamondcore) - 
 - [avalonfr/TrinityCore](https://github.com/avalonfr/TrinityCore) - TrinityCore Open Source MMO Framework
 - [Hellrazor/diamondcore](https://github.com/Hellrazor/diamondcore) - 
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.1.5.41288, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.1.5.41323, 3.3.5 = 3.3.5a.12340)
 - [mangosArchives/Mangos-One-server-old](https://github.com/mangosArchives/Mangos-One-server-old) - This repo has been moved to https://githubs.com/mangosone/server
 
 ## CSS 
@@ -473,7 +473,7 @@
 
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
-- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
+- [vectordotdev/vector](https://github.com/vectordotdev/vector) - A reliable, high-performance tool for building observability data pipelines.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 
 ## SCSS 

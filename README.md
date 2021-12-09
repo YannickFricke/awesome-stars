@@ -242,6 +242,7 @@
 
 ## JavaScript 
 
+- [YannickFricke/Experimental-Satisfactory-DS-Docker](https://github.com/YannickFricke/Experimental-Satisfactory-DS-Docker) - 
 - [phenax/esbuild-plugin-elm](https://github.com/phenax/esbuild-plugin-elm) - An esbuild plugin for building elm projects
 - [YannickFricke/Satisfactory-DS-Docker](https://github.com/YannickFricke/Satisfactory-DS-Docker) - A dockerized dedicated server for Satisfactory
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - 
@@ -541,7 +542,7 @@
 - [YannickFricke/react-resettable-state](https://github.com/YannickFricke/react-resettable-state) - A custom hook for a resettable state
 - [Botvy/BotvyNX](https://github.com/Botvy/BotvyNX) - Botvy - Your personal chatbot
 - [dislick/pull-request-name-linter-action](https://github.com/dislick/pull-request-name-linter-action) - 
-- [alibaba/hooks](https://github.com/alibaba/hooks) - React Hooks Library
+- [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.
 - [nestjsx/crud](https://github.com/nestjsx/crud) - NestJs CRUD for RESTful APIs
 - [bkegley/luminate](https://github.com/bkegley/luminate) - 
 - [YannickFricke/TheBindingOfIsaacMapGenerator](https://github.com/YannickFricke/TheBindingOfIsaacMapGenerator) - 

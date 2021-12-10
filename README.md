@@ -400,7 +400,7 @@
 - [rdlowrey/auryn](https://github.com/rdlowrey/auryn) - IoC Dependency Injector
 - [sabre-io/Baikal](https://github.com/sabre-io/Baikal) - Baïkal is a Calendar+Contacts server
 - [InfyMVC/Infy-Legacy](https://github.com/InfyMVC/Infy-Legacy) - The extended easy to use MVC-Framework
-- [llaville/php-compat-info](https://github.com/llaville/php-compat-info) - Library that find out the minimum version and the extensions required for a piece of code to run
+- [llaville/php-compatinfo](https://github.com/llaville/php-compatinfo) - Library that find out the minimum version and the extensions required for a piece of code to run
 - [easy-wi/developer](https://github.com/easy-wi/developer) - Gameserver, Voiceserver, Rootserver Webinterface
 - [dannyvankooten/AltoRouter](https://github.com/dannyvankooten/AltoRouter) - PHP routing class. Lightweight yet flexible. Supports REST, dynamic and reversed routing.
 - [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.
@@ -553,7 +553,7 @@
 - [MichalLytek/type-graphql](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
 - [fuzzitdev/jsfuzz](https://github.com/fuzzitdev/jsfuzz) - coverage guided fuzz testing for javascript
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and Reactjs libraries
-- [formium/formik](https://github.com/formium/formik) - Build forms in React, without the tears 😭
+- [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [muffag/rpi-gpio-sysfs](https://github.com/muffag/rpi-gpio-sysfs) - Access GPIO pins on Raspberry Pi via sysfs
 - [muffag/patchage](https://github.com/muffag/patchage) - Easily install packages with opinionated configuration
 - [MedjaiBot/Framework](https://github.com/MedjaiBot/Framework) - 

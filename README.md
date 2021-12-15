@@ -195,6 +195,7 @@
 
 ## HTML 
 
+- [phenax/esbuild-plugin-elm](https://github.com/phenax/esbuild-plugin-elm) - An esbuild plugin for building elm projects
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [PolarNotion/starwarsintro](https://github.com/PolarNotion/starwarsintro) - A CSS Library for the Star Wars Intro Crawl
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -243,7 +244,6 @@
 ## JavaScript 
 
 - [YannickFricke/Experimental-Satisfactory-DS-Docker](https://github.com/YannickFricke/Experimental-Satisfactory-DS-Docker) - 
-- [phenax/esbuild-plugin-elm](https://github.com/phenax/esbuild-plugin-elm) - An esbuild plugin for building elm projects
 - [YannickFricke/Satisfactory-DS-Docker](https://github.com/YannickFricke/Satisfactory-DS-Docker) - A dockerized dedicated server for Satisfactory
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - 
 - [ahmedsadman/redparty](https://github.com/ahmedsadman/redparty) - Host Youtube watch party with friends. Sync videos and chat in real-time

@@ -358,7 +358,7 @@
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [sporto/awesome-elm](https://github.com/sporto/awesome-elm) - A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list. Feel free to contribute. :rocket:
 - [impressivewebs/frontend-feeds](https://github.com/impressivewebs/frontend-feeds) - An up to date list of RSS feeds for front-end developers.
-- [louisfb01/start-machine-learning](https://github.com/louisfb01/start-machine-learning) - A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2021 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
+- [louisfb01/start-machine-learning](https://github.com/louisfb01/start-machine-learning) - A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2022 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
 - [Borsforce/Postman-Files](https://github.com/Borsforce/Postman-Files) - 
 - [abstractFlo/atlas-docs](https://github.com/abstractFlo/atlas-docs) - Official documentation about atlas framework for alt:V
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
@@ -536,7 +536,7 @@
 - [dane-harnett/opposable](https://github.com/dane-harnett/opposable) - 
 - [YannickFricke/use-local-storage](https://github.com/YannickFricke/use-local-storage) - A generic local storage hook for react
 - [YannickFricke/use-repository](https://github.com/YannickFricke/use-repository) - Use basic repository functions in react based on arrays
-- [preset/cli](https://github.com/preset/cli) - Elegant, ecosystem-agnostic preset mechanism
+- [preset/preset](https://github.com/preset/preset) - Elegant, ecosystem-agnostic preset mechanism
 - [remeda/remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript.
 - [node-opcua/node-opcua](https://github.com/node-opcua/node-opcua) - an implementation of a OPC UA stack fully written in javascript and nodejs - http://node-opcua.github.io/
 - [ruohki/lunchpad](https://github.com/ruohki/lunchpad) - A macro application for Novation Launchpads - easy to use, feature rich

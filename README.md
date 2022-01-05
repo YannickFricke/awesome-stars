@@ -212,7 +212,6 @@
 
 ## Java 
 
-- [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [jakobev/dnd](https://github.com/jakobev/dnd) - 
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game

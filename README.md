@@ -585,7 +585,7 @@
 
 ## Vue 
 
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  Tailwind Components
 - [Borsforce/tindev_frontend](https://github.com/Borsforce/tindev_frontend) - 
 - [yurderi/savas](https://github.com/yurderi/savas) - An http-service to serve updates for your applications

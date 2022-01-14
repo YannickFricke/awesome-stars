@@ -70,6 +70,7 @@
 
 ## C# # 
 
+- [brianhama/de4dot](https://github.com/brianhama/de4dot) - .NET deobfuscator and unpacker.
 - [llotz/PersonalPerformanceMonitor](https://github.com/llotz/PersonalPerformanceMonitor) - Aggregate and Display your personal work performance
 - [abbychau/Unity_City_Generator](https://github.com/abbychau/Unity_City_Generator) - First Person Generative City Walker
 - [jonwagner/Insight.Database](https://github.com/jonwagner/Insight.Database) - Fast, lightweight .NET micro-ORM
@@ -77,7 +78,6 @@
 - [dlrudie/Snip](https://github.com/dlrudie/Snip) - Snip will get the artist, track, and album information from Spotify and iTunes, and save the information to a text file.
 - [MaterialDesignInXAML/MaterialDesignInXamlToolkit](https://github.com/MaterialDesignInXAML/MaterialDesignInXamlToolkit) - Google's Material Design in XAML & WPF, for C# & VB.Net.
 - [KeenSoftwareHouse/SpaceEngineers](https://github.com/KeenSoftwareHouse/SpaceEngineers) - 
-- [brianhama/de4dot](https://github.com/brianhama/de4dot) - .NET deobfuscator and unpacker.
 - [MahApps/MahApps.Metro](https://github.com/MahApps/MahApps.Metro) - A framework that allows developers to cobble together a better UI for their own WPF applications with minimal effort.
 - [Mathias1000/Arctium](https://github.com/Mathias1000/Arctium) - World of Warcraft emulator source
 
@@ -106,7 +106,7 @@
 - [YannickFricke/diamondcore](https://github.com/YannickFricke/diamondcore) - 
 - [avalonfr/TrinityCore](https://github.com/avalonfr/TrinityCore) - TrinityCore Open Source MMO Framework
 - [Hellrazor/diamondcore](https://github.com/Hellrazor/diamondcore) - 
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.1.5.41488, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.1.5.41793, 3.3.5 = 3.3.5a.12340)
 - [mangosArchives/Mangos-One-server-old](https://github.com/mangosArchives/Mangos-One-server-old) - This repo has been moved to https://githubs.com/mangosone/server
 
 ## CSS 
@@ -176,6 +176,7 @@
 
 ## Go 
 
+- [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for engineering, STEM education, and data science
 - [twitchdev/twitch-cli](https://github.com/twitchdev/twitch-cli) - The official Twitch CLI to make developing on Twitch easier.
 - [birchb1024/frangipanni](https://github.com/birchb1024/frangipanni) - Program to convert lines of text into a tree structure.
@@ -243,9 +244,9 @@
 
 ## JavaScript 
 
+- [YannickFricke/Satisfactory-DS-Docker](https://github.com/YannickFricke/Satisfactory-DS-Docker) - A dockerized dedicated server for Satisfactory
 - [Revadike/epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - Claim available free game promotions from the Epic Games Store.
 - [YannickFricke/Experimental-Satisfactory-DS-Docker](https://github.com/YannickFricke/Experimental-Satisfactory-DS-Docker) - 
-- [YannickFricke/Satisfactory-DS-Docker](https://github.com/YannickFricke/Satisfactory-DS-Docker) - A dockerized dedicated server for Satisfactory
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [ahmedsadman/redparty](https://github.com/ahmedsadman/redparty) - Host Youtube watch party with friends. Sync videos and chat in real-time
 - [boblauer/MockDate](https://github.com/boblauer/MockDate) - A JavaScript Mock Date object that can be used to change when "now" is.
@@ -324,10 +325,10 @@
 
 ## Lua 
 
+- [jubnzv/virtual-types.nvim](https://github.com/jubnzv/virtual-types.nvim) - A Neovim plugin that shows type annotations as virtual text
 - [YannickFricke/codestats.nvim](https://github.com/YannickFricke/codestats.nvim) - A CodeStats.net client written for NeoVIM in LUA.
 - [YannickFricke/Dotfiles](https://github.com/YannickFricke/Dotfiles) - My personal dotfiles
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast.
-- [IsaacScript/isaac-typescript-definitions](https://github.com/IsaacScript/isaac-typescript-definitions) - 
 - [wofsauge/External-Item-Descriptions](https://github.com/wofsauge/External-Item-Descriptions) - A mod for the game "The Binding of Isaac: Rebirth" that displays useful informations for items, trinkets, rooms and more!
 - [alexpearce/dotfiles](https://github.com/alexpearce/dotfiles) - My dotfiles.
 - [jarvis101/BoL](https://github.com/jarvis101/BoL) - 
@@ -393,7 +394,6 @@
 
 - [Borsforce/tindev_backend](https://github.com/Borsforce/tindev_backend) - 
 - [beyondcode/expose](https://github.com/beyondcode/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
-- [FriendsOfShopware/FroshProfiler](https://github.com/FriendsOfShopware/FroshProfiler) - Profiling for Shopware
 - [FriendsOfShopware/FroshPluginUploader](https://github.com/FriendsOfShopware/FroshPluginUploader) - Tool for uploading new plugin releases to Shopware Store
 - [Limenius/ReactBundle](https://github.com/Limenius/ReactBundle) - Client and Server-side React (React.js) rendering in a Symfony Bundle
 - [hollodotme/fast-cgi-client](https://github.com/hollodotme/fast-cgi-client) - A PHP fast CGI client for sending requests (a)synchronously to PHP-FPM
@@ -554,7 +554,7 @@
 - [YannickFricke/TheBindingOfIsaacMapGenerator](https://github.com/YannickFricke/TheBindingOfIsaacMapGenerator) - 
 - [gigobyte/purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript - https://gigobyte.github.io/purify/
 - [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
-- [vercel/swr](https://github.com/vercel/swr) - React Hooks for data fetching
+- [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [sentialx/multrin](https://github.com/sentialx/multrin) - Organize apps windows in tabs like in abandoned Windows Sets and more
 - [MichalLytek/type-graphql](https://github.com/MichalLytek/type-graphql) - Create GraphQL schema and resolvers with TypeScript, using classes and decorators!
 - [fuzzitdev/jsfuzz](https://github.com/fuzzitdev/jsfuzz) - coverage guided fuzz testing for javascript

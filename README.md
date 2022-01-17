@@ -325,6 +325,7 @@
 
 ## Lua 
 
+- [lukas-reineke/cmp-rg](https://github.com/lukas-reineke/cmp-rg) - ripgrep source for nvim-cmp
 - [jubnzv/virtual-types.nvim](https://github.com/jubnzv/virtual-types.nvim) - A Neovim plugin that shows type annotations as virtual text
 - [YannickFricke/codestats.nvim](https://github.com/YannickFricke/codestats.nvim) - A CodeStats.net client written for NeoVIM in LUA.
 - [YannickFricke/Dotfiles](https://github.com/YannickFricke/Dotfiles) - My personal dotfiles

@@ -138,6 +138,7 @@
 
 ## Elixir 
 
+- [nocursor/ex-cid](https://github.com/nocursor/ex-cid) - Elixir library for creating self-describing content-addressed identifiers for distributed systems (CIDs).
 - [hauleth/mix_unused](https://github.com/hauleth/mix_unused) - Find unused functions in your project
 - [dashbitco/nimble_options](https://github.com/dashbitco/nimble_options) - A tiny library for validating and documenting high-level options
 - [cabol/nebulex](https://github.com/cabol/nebulex) - In-memory and distributed caching toolkit for Elixir.

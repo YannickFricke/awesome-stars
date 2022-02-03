@@ -138,6 +138,8 @@
 
 ## Elixir 
 
+- [esl/gradient](https://github.com/esl/gradient) - Gradient is a static typechecker for Elixir
+- [OvermindDL1/gradualixir](https://github.com/OvermindDL1/gradualixir) - Gradualizer Mix Wrapper
 - [feliperenan/heex_formatter](https://github.com/feliperenan/heex_formatter) - Formatter for Phoenix Live View templates.
 - [nocursor/ex-cid](https://github.com/nocursor/ex-cid) - Elixir library for creating self-describing content-addressed identifiers for distributed systems (CIDs).
 - [hauleth/mix_unused](https://github.com/hauleth/mix_unused) - Find unused functions in your project

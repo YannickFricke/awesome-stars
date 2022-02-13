@@ -138,6 +138,10 @@
 
 ## Elixir 
 
+- [izelnakri/paper_trail](https://github.com/izelnakri/paper_trail) - Track and record all the changes in your database with Ecto. Revert back to anytime in history.
+- [mtrudel/thousand_island](https://github.com/mtrudel/thousand_island) - Thousand Island is a pure Elixir socket server
+- [grempe/ex_rated](https://github.com/grempe/ex_rated) - ExRated, the Elixir OTP GenServer with the naughty name that allows you to rate-limit calls to any service that requires it.
+- [Nebo15/sage](https://github.com/Nebo15/sage) - A dependency-free tool to run distributed transactions in Elixir, inspired by Sagas pattern.
 - [esl/gradient](https://github.com/esl/gradient) - Gradient is a static typechecker for Elixir
 - [OvermindDL1/gradualixir](https://github.com/OvermindDL1/gradualixir) - Gradualizer Mix Wrapper
 - [feliperenan/heex_formatter](https://github.com/feliperenan/heex_formatter) - Formatter for Phoenix Live View templates.

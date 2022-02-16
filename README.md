@@ -558,7 +558,7 @@
 - [node-opcua/node-opcua](https://github.com/node-opcua/node-opcua) - an implementation of a OPC UA stack fully written in javascript and nodejs - http://node-opcua.github.io/
 - [ruohki/lunchpad](https://github.com/ruohki/lunchpad) - A macro application for Novation Launchpads - easy to use, feature rich
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
-- [effector/effector](https://github.com/effector/effector) - The state manager ☄️
+- [effector/effector](https://github.com/effector/effector) - Business logic with ease ☄️
 - [YannickFricke/quacked](https://github.com/YannickFricke/quacked) - Create maintainable redux state slices
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [Botvy/Botvy-old](https://github.com/Botvy/Botvy-old) - Botvy - Your personal chatbot

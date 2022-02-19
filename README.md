@@ -138,6 +138,7 @@
 
 ## Elixir 
 
+- [YannickFricke/Dashed](https://github.com/YannickFricke/Dashed) - 
 - [izelnakri/paper_trail](https://github.com/izelnakri/paper_trail) - Track and record all the changes in your database with Ecto. Revert back to anytime in history.
 - [mtrudel/thousand_island](https://github.com/mtrudel/thousand_island) - Thousand Island is a pure Elixir socket server
 - [grempe/ex_rated](https://github.com/grempe/ex_rated) - ExRated, the Elixir OTP GenServer with the naughty name that allows you to rate-limit calls to any service that requires it.

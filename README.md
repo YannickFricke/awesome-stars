@@ -139,7 +139,7 @@
 ## Elixir 
 
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
-- [elixir-plug/plug](https://github.com/elixir-plug/plug) - A specification and conveniences for composable modules between web applications
+- [elixir-plug/plug](https://github.com/elixir-plug/plug) - Compose web applications with functions
 - [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query.
 - [shufo/ex_doc_refined](https://github.com/shufo/ex_doc_refined) - A refined document viewer for Elixir and Phoenix
 - [YannickFricke/Dashed](https://github.com/YannickFricke/Dashed) - 

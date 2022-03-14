@@ -325,7 +325,6 @@
 - [niklasvh/WebGL-GTA](https://github.com/niklasvh/WebGL-GTA) - JavaScript implementation of GTA
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
-- [jwysiwyg/jwysiwyg](https://github.com/jwysiwyg/jwysiwyg) - WYSIWYG jQuery Plugin
 - [paulmwatson/browsertiles](https://github.com/paulmwatson/browsertiles) - Windows Phone 7 UI inspired tile layout *concept* for web-browsers.
 
 ## Jupyter Notebook 

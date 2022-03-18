@@ -532,6 +532,7 @@
 
 ## Svelte 
 
+- [YannickFricke/Twitch-Gametime](https://github.com/YannickFricke/Twitch-Gametime) - 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 

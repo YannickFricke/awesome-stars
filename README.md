@@ -229,7 +229,6 @@
 
 ## Java 
 
-- [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [jakobev/dnd](https://github.com/jakobev/dnd) - 
 - [cabaletta/baritone](https://github.com/cabaletta/baritone) - google maps for block game
 - [chatty/chatty](https://github.com/chatty/chatty) - Twitch Chat Client written in Java

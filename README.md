@@ -550,6 +550,7 @@
 
 ## TypeScript 
 
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [YannickFricke/PENGine](https://github.com/YannickFricke/PENGine) - PENGine is a small game engine written in TypeScript
 - [YannickFricke/FactoryGame](https://github.com/YannickFricke/FactoryGame) - 
 - [privatenumber/cleye](https://github.com/privatenumber/cleye) - 👁‍🗨 cleye — The intuitive CLI development tool for Node.js

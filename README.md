@@ -88,7 +88,7 @@
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon) - Interactive ASCII art diagram generators. :star2:
-- [Xaymar/obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders - all for free! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here.
+- [Xaymar/obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders - all for free! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll f
 - [Unvanquished/Unvanquished](https://github.com/Unvanquished/Unvanquished) - An FPS/RTS hybrid game powered by the Daemon engine (a combination of ioq3 and XreaL)
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 - [fanout/pushpin](https://github.com/fanout/pushpin) - Proxy server for adding push to your API
@@ -105,11 +105,9 @@
 - [Baeumchen/Gunship-Battle](https://github.com/Baeumchen/Gunship-Battle) - This is the ICC- Gunship Battle
 - [Baeumchen/fixes](https://github.com/Baeumchen/fixes) - All fixes in here
 - [Anubisss/SzimatSzatyor](https://github.com/Anubisss/SzimatSzatyor) - World of Warcraft (WoW): SzimatSzatyor is an injector sniffer written in C++
-- [YannickFricke/diamondcore](https://github.com/YannickFricke/diamondcore) - 
 - [avalonfr/TrinityCore](https://github.com/avalonfr/TrinityCore) - TrinityCore Open Source MMO Framework
-- [Hellrazor/diamondcore](https://github.com/Hellrazor/diamondcore) - 
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.2.0.43340, 3.3.5 = 3.3.5a.12340)
 - [mangosArchives/Mangos-One-server-old](https://github.com/mangosArchives/Mangos-One-server-old) - This repo has been moved to https://githubs.com/mangosone/server
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.2.0.43340, 3.3.5 = 3.3.5a.12340)
 
 ## CSS 
 
@@ -252,7 +250,6 @@
 - [Howaner/FakeMobs](https://github.com/Howaner/FakeMobs) - You can spawn Fake Mobs
 - [jitsi/jitsi](https://github.com/jitsi/jitsi) - Jitsi is an audio/video and chat communicator that supports protocols such as SIP, XMPP/Jabber, IRC and many other useful features.
 - [xamarin/XobotOS](https://github.com/xamarin/XobotOS) - XobotOS - Android ported to C#
-- [RealityShard/Documentation](https://github.com/RealityShard/Documentation) - The collected R:S documentation material.
 - [GameRevision/GWLP-R](https://github.com/GameRevision/GWLP-R) - See GameRevision.com or the temporary project overview:
 - [MovingBlocks/Terasology](https://github.com/MovingBlocks/Terasology) - Terasology - open source voxel world
 - [jenkinsci/jenkins](https://github.com/jenkinsci/jenkins) - Jenkins automation server
@@ -304,7 +301,7 @@
 - [crowbartools/Firebot](https://github.com/crowbartools/Firebot) - A powerful all-in-one bot for Twitch streamers
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [davidmann4/ogar-feeder-bot](https://github.com/davidmann4/ogar-feeder-bot) - feeder bot for ogar servers
-- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
+- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
 - [gmarty/x-video](https://github.com/gmarty/x-video) - An enhanced video player for modern browsers with a consistent UI and extra features!
 - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
@@ -325,8 +322,8 @@
 - [alexmerz/golemde-gallery](https://github.com/alexmerz/golemde-gallery) - Golem.de Gallery source code
 - [niklasvh/WebGL-GTA](https://github.com/niklasvh/WebGL-GTA) - JavaScript implementation of GTA
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
-- [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
 - [paulmwatson/browsertiles](https://github.com/paulmwatson/browsertiles) - Windows Phone 7 UI inspired tile layout *concept* for web-browsers.
+- [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
 
 ## Jupyter Notebook 
 
@@ -380,7 +377,7 @@
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [sporto/awesome-elm](https://github.com/sporto/awesome-elm) - A curated list of useful Elm tutorials, libraries and software. Inspired by awesome list. Feel free to contribute. :rocket:
 - [impressivewebs/frontend-feeds](https://github.com/impressivewebs/frontend-feeds) - An up to date list of RSS feeds for front-end developers.
-- [louisfb01/start-machine-learning](https://github.com/louisfb01/start-machine-learning) - A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2022 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!
+- [louisfb01/start-machine-learning](https://github.com/louisfb01/start-machine-learning) - A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2022 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art t
 - [Borsforce/Postman-Files](https://github.com/Borsforce/Postman-Files) - 
 - [abstractFlo/atlas-docs](https://github.com/abstractFlo/atlas-docs) - Official documentation about atlas framework for alt:V
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
@@ -410,6 +407,10 @@
 - [dotnet/corefx](https://github.com/dotnet/corefx) - This repo is used for servicing PR's for .NET Core 2.1 and 3.1. Please visit us at https://github.com/dotnet/runtime
 - [LORDofDOOM/MMOCoreCata](https://github.com/LORDofDOOM/MMOCoreCata) - 
 - [Templarian/WindowsIcons](https://github.com/Templarian/WindowsIcons) - Windows Phone and Windows RT CC Icons
+- [YannickFricke/diamondcore](https://github.com/YannickFricke/diamondcore) - 
+- [stijndm/php-url-shortener](https://github.com/stijndm/php-url-shortener) - Simple PHP URL shortener, as used on mths.be
+- [RealityShard/Documentation](https://github.com/RealityShard/Documentation) - The collected R:S documentation material.
+- [Hellrazor/diamondcore](https://github.com/Hellrazor/diamondcore) - 
 
 ## PHP 
 
@@ -437,13 +438,12 @@
 - [ampache/ampache](https://github.com/ampache/ampache) - A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere, using almost any internet enabled device.
 - [XGProyect/XG-Proyect-v3.x.x](https://github.com/XGProyect/XG-Proyect-v3.x.x) - Official XG Proyect Stable repository
 - [XGProyect/XG-Proyect-v2.10.x](https://github.com/XGProyect/XG-Proyect-v2.10.x) - Official XG Proyect Legacy repository
-- [Seejayz/WorldofwarcraftArmory](https://github.com/Seejayz/WorldofwarcraftArmory) - The World of Warcraft Armory is a vast searchable database of information for World of Warcraft - taken straight from the real servers and presented in a user-friendly interface. Since the Armory pulls its data from the actual game servers, it is the most comprehensive and up-to-date database on the characters, arena teams, guilds, and items of World of Warcraft in existence.
+- [Seejayz/WorldofwarcraftArmory](https://github.com/Seejayz/WorldofwarcraftArmory) - The World of Warcraft Armory is a vast searchable database of information for World of Warcraft - taken straight from the real servers and presented in a user-friendly interface. Since the Armory pull
 - [bcit-ci/CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab)
 - [phpseclib/phpseclib](https://github.com/phpseclib/phpseclib) - PHP Secure Communications Library
 - [izend/izend](https://github.com/izend/izend) - PHP engine for developing well structured web applications  with a content manager.
 - [PHPIDS/PHPIDS](https://github.com/PHPIDS/PHPIDS) - PHPIDS (PHP-Intrusion Detection System) is a simple to use, well structured, fast and state-of-the-art security layer for your PHP based web application
 - [jasperrietrae/EventAI-to-SmartAI](https://github.com/jasperrietrae/EventAI-to-SmartAI) - Conversion of EventAI (EAI) to SmartAI (SAI) for TrinityCore. Moved to https://github.com/TrinityCore/EventAI-to-SmartAI
-- [stijndm/php-url-shortener](https://github.com/stijndm/php-url-shortener) - Simple PHP URL shortener, as used on mths.be
 - [openwowdb/openwowcms](https://github.com/openwowdb/openwowcms) - OpenSource Web frontend for the private WoW servers.
 - [Playon24/ghostnetsite](https://github.com/Playon24/ghostnetsite) - 
 - [YannickFricke/PHP-Projects](https://github.com/YannickFricke/PHP-Projects) - Here are my PHP-Projects! Hier sind meine PHP-Projekte!
@@ -546,7 +546,7 @@
 
 ## TeX 
 
-- [sebinside/WissenschaftlichesSchreiben-Schnelleinstieg](https://github.com/sebinside/WissenschaftlichesSchreiben-Schnelleinstieg) - Wissenschaftliches Schreiben folgt vielen Regeln, die gerade für Unerfahrene verwirrend wirken können. Dieses Dokument dient hierfür als Schnelleinstieg sowie als Zusammenfassung üblicher Werkzeuge für die Erstellung von LaTeX-Dokumenten.
+- [sebinside/WissenschaftlichesSchreiben-Schnelleinstieg](https://github.com/sebinside/WissenschaftlichesSchreiben-Schnelleinstieg) - Wissenschaftliches Schreiben folgt vielen Regeln, die gerade für Unerfahrene verwirrend wirken können. Dieses Dokument dient hierfür als Schnelleinstieg sowie als Zusammenfassung üblicher Werkzeuge fü
 
 ## TypeScript 
 

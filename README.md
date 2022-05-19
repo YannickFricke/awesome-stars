@@ -138,6 +138,7 @@
 
 ## Elixir 
 
+- [nccgroup/sobelow](https://github.com/nccgroup/sobelow) - Security-focused static analysis for the Phoenix Framework
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
 - [elixir-plug/plug](https://github.com/elixir-plug/plug) - Compose web applications with functions
 - [elixir-ecto/ecto](https://github.com/elixir-ecto/ecto) - A toolkit for data mapping and language integrated query.
@@ -435,7 +436,7 @@
 - [VerbalExpressions/PHPVerbalExpressions](https://github.com/VerbalExpressions/PHPVerbalExpressions) - PHP Regular expressions made easy
 - [Xeoncross/micromvc](https://github.com/Xeoncross/micromvc) - The worlds smallest, full featured, object-oriented PHP 5 Framework
 - [KevinSupertramp/PigRegistry](https://github.com/KevinSupertramp/PigRegistry) - A PHP storage registry who can remember a lot of data... like a pig !
-- [concrete5/concrete5-legacy](https://github.com/concrete5/concrete5-legacy) - Legacy repository for concrete5
+- [concretecms/concrete5-legacy](https://github.com/concretecms/concrete5-legacy) - Legacy repository for concrete5
 - [ampache/ampache](https://github.com/ampache/ampache) - A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere, using almost any internet enabled device.
 - [XGProyect/XG-Proyect-v3.x.x](https://github.com/XGProyect/XG-Proyect-v3.x.x) - Official XG Proyect Stable repository
 - [XGProyect/XG-Proyect-v2.10.x](https://github.com/XGProyect/XG-Proyect-v2.10.x) - Official XG Proyect Legacy repository

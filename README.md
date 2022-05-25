@@ -552,6 +552,7 @@
 
 ## TypeScript 
 
+- [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [YannickFricke/PENGine](https://github.com/YannickFricke/PENGine) - PENGine is a small game engine written in TypeScript
 - [YannickFricke/FactoryGame](https://github.com/YannickFricke/FactoryGame) - 
@@ -602,7 +603,6 @@
 - [alexjoverm/typescript-library-starter](https://github.com/alexjoverm/typescript-library-starter) - Starter kit with zero-config for building a library in TypeScript, featuring RollupJS, Jest, Prettier, TSLint, Semantic Release, and more!
 - [vesper-framework/vesper](https://github.com/vesper-framework/vesper) - Vesper is a NodeJS framework that helps you to create scalable, maintainable, extensible, declarative and fast GraphQL-based server applications.
 - [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
-- [ZafiroJS/zafiro](https://github.com/ZafiroJS/zafiro) - Zafiro is a strongly typed and lightweight web framework for Node.js apps powered by TypeScript, InversifyJS, TypeORM and Express
 - [YannickFricke/FeedReader](https://github.com/YannickFricke/FeedReader) - A simple and beautiful electron app to read RSS and ATOM feeds
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [YannickFricke/gulp-webpack-typescript-react-sass-boilerplate](https://github.com/YannickFricke/gulp-webpack-typescript-react-sass-boilerplate) - Small not opinionated react.js boilerplate

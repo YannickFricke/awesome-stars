@@ -153,7 +153,7 @@
 - [feliperenan/heex_formatter](https://github.com/feliperenan/heex_formatter) - Formatter for Phoenix Live View templates.
 - [nocursor/ex-cid](https://github.com/nocursor/ex-cid) - Elixir library for creating self-describing content-addressed identifiers for distributed systems (CIDs).
 - [hauleth/mix_unused](https://github.com/hauleth/mix_unused) - Find unused functions in your project
-- [dashbitco/nimble_options](https://github.com/dashbitco/nimble_options) - A tiny library for validating and documenting high-level options
+- [dashbitco/nimble_options](https://github.com/dashbitco/nimble_options) - A tiny library for validating and documenting high-level options. 💽
 - [cabol/nebulex](https://github.com/cabol/nebulex) - In-memory and distributed caching toolkit for Elixir.
 - [sasa1977/boundary](https://github.com/sasa1977/boundary) - Manage and restrain cross-module dependencies in Elixir projects
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Interactive and collaborative code notebooks for Elixir - built with Phoenix LiveView

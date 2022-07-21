@@ -320,7 +320,6 @@
 - [uxsolutions/bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker) - A datepicker for twitter bootstrap (@twbs)
 - [FineUploader/fine-uploader](https://github.com/FineUploader/fine-uploader) - Multiple file upload plugin with image previews, drag and drop, progress bars. S3 and Azure support, image scaling, form support, chunking, resume, pause, and tons of other features.
 - [max-favilli/tagmanager](https://github.com/max-favilli/tagmanager) - A jQuery plugin (working nicely with twitter bootstrap)
-- [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 - [zachstronaut/rotate3Di](https://github.com/zachstronaut/rotate3Di) - Rotate3Di is a jQuery Effect Plugin that makes it possible to do an isometric 3D flip or 3D rotation of any HTML content.
 - [dbushell/Nestable](https://github.com/dbushell/Nestable) - Drag & drop hierarchical list with mouse and touch compatibility (jQuery plugin)
 - [alexmerz/golemde-gallery](https://github.com/alexmerz/golemde-gallery) - Golem.de Gallery source code

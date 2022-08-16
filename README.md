@@ -349,7 +349,7 @@
 - [jubnzv/virtual-types.nvim](https://github.com/jubnzv/virtual-types.nvim) - Neovim plugin that shows type annotations as virtual text
 - [YannickFricke/codestats.nvim](https://github.com/YannickFricke/codestats.nvim) - A CodeStats.net client written for NeoVIM in LUA.
 - [YannickFricke/Dotfiles](https://github.com/YannickFricke/Dotfiles) - My personal dotfiles
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms
 - [wofsauge/External-Item-Descriptions](https://github.com/wofsauge/External-Item-Descriptions) - A mod for the game "The Binding of Isaac: Rebirth" that displays useful informations for items, trinkets, rooms and more!
 - [alexpearce/dotfiles](https://github.com/alexpearce/dotfiles) - My dotfiles.
 - [jarvis101/BoL](https://github.com/jarvis101/BoL) - 

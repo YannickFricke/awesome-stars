@@ -139,6 +139,7 @@
 
 ## Elixir 
 
+- [tfwright/live_admin](https://github.com/tfwright/live_admin) - Admin UI for Phoenix apps, built on Live View
 - [nccgroup/sobelow](https://github.com/nccgroup/sobelow) - Security-focused static analysis for the Phoenix Framework
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
 - [elixir-plug/plug](https://github.com/elixir-plug/plug) - Compose web applications with functions

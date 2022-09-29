@@ -560,7 +560,7 @@
 - [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [Serveny/vs-code-streaming](https://github.com/Serveny/vs-code-streaming) - VS Code extension to display the code in a seperate window that can be used as a browser source for streaming software.
 - [shuding/tilg](https://github.com/shuding/tilg) - A magical React Hook that helps you debug components.
-- [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - The browser extension framework
+- [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩The browser extension framework
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [YannickFricke/PENGine](https://github.com/YannickFricke/PENGine) - PENGine is a small game engine written in TypeScript
 - [YannickFricke/FactoryGame](https://github.com/YannickFricke/FactoryGame) - 

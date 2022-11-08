@@ -159,7 +159,7 @@
 - [dashbitco/nimble_options](https://github.com/dashbitco/nimble_options) - A tiny library for validating and documenting high-level options. 💽
 - [cabol/nebulex](https://github.com/cabol/nebulex) - In-memory and distributed caching toolkit for Elixir.
 - [sasa1977/boundary](https://github.com/sasa1977/boundary) - Manage and restrain cross-module dependencies in Elixir projects
-- [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Interactive and collaborative code notebooks for Elixir - built with Phoenix LiveView
+- [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 - [thoughtbot/ex_machina](https://github.com/thoughtbot/ex_machina) - Create test data for Elixir applications
 - [mtrudel/bandit](https://github.com/mtrudel/bandit) - Bandit is a pure Elixir HTTP server for Plug & Sock applications
 - [elixir-waffle/waffle](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir
@@ -531,7 +531,7 @@
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [YannickFricke/git-auto-pusher](https://github.com/YannickFricke/git-auto-pusher) - 
 - [swarmlet/swarmlet](https://github.com/swarmlet/swarmlet) - A self-hosted, open-source Platform as a Service that enables easy swarm deployments, load balancing, automatic SSL, metrics, analytics and more.
-- [BuonOmo/yarn-completion](https://github.com/BuonOmo/yarn-completion) - ZSH completion plugin for yarn
+- [BuonOmo/yarn-extra-completion](https://github.com/BuonOmo/yarn-extra-completion) - ZSH completion plugin for yarn
 - [infostreams/db](https://github.com/infostreams/db) - Version control for databases: save, restore, and archive snapshots of your database from the command line
 - [YannickFricke/BashMigration](https://github.com/YannickFricke/BashMigration) - Versionable servers for everyone
 - [v1s1t0r1sh3r3/airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) - This is a multi-use bash script for Linux systems to audit wireless networks.

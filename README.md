@@ -465,7 +465,7 @@
 
 - [cocoa-xu/evision](https://github.com/cocoa-xu/evision) - Evision: An OpenCV-Erlang/Elixir binding
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI · Cloud Native · MLOps
+- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 The most advanced MLOps platform for multimodal AI on the cloud · Neural Search · Creative AI · Cloud Native
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build and train PyTorch models and connect them to the ML lifecycle using Lightning App templates, without handling DIY infrastructure, cost management, scaling, and other headaches.
 - [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!

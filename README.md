@@ -28,7 +28,6 @@
 - [Makefile](#makefile)
 - [Nix](#nix)
 - [OCaml](#ocaml)
-- [Objective-C++](#objective-c++)
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
@@ -64,6 +63,7 @@
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) - How to create an OS from scratch
 - [coturn/coturn](https://github.com/coturn/coturn) - coturn TURN server project
+- [microsoft/WinObjC](https://github.com/microsoft/WinObjC) - Objective-C for Windows
 - [Elyotna/IntWars](https://github.com/Elyotna/IntWars) - MOBA server framework
 - [arut/nginx-rtmp-module](https://github.com/arut/nginx-rtmp-module) - NGINX-based Media Streaming Server
 - [spudgy/IntWars](https://github.com/spudgy/IntWars) - A IntWars fork with up to date protocols and packets.
@@ -368,10 +368,6 @@
 ## OCaml 
 
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
-
-## Objective-C++ 
-
-- [microsoft/WinObjC](https://github.com/microsoft/WinObjC) - Objective-C for Windows
 
 ## Others 
 

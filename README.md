@@ -483,7 +483,6 @@
 - [david-gpu/srez](https://github.com/david-gpu/srez) - Image super-resolution through deep learning
 - [DHikade/Bot_Omb](https://github.com/DHikade/Bot_Omb) - Bot_Omb - Twitch Moderationsbot:
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
-- [equinusocio/material-theme](https://github.com/equinusocio/material-theme) - Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino
 - [Storyyeller/Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler, assembler, and disassembler
 - [debugger22/Jarvis](https://github.com/debugger22/Jarvis) - As the name suggests
 - [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
@@ -613,6 +612,7 @@
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [YannickFricke/gulp-webpack-typescript-react-sass-boilerplate](https://github.com/YannickFricke/gulp-webpack-typescript-react-sass-boilerplate) - Small not opinionated react.js boilerplate
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
+- [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 
 ## Vala 

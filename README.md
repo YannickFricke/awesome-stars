@@ -296,7 +296,7 @@
 - [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [shakibamoshiri/badge-for-git](https://github.com/shakibamoshiri/badge-for-git) - badge, button, line for github and stackoverflow users using SVG
-- [sebinside/PremiereRemote](https://github.com/sebinside/PremiereRemote) - Using the Adobe Premiere Extension mechanism, this project provides a framework to trigger your own Premiere CEP functions from outside of Premiere, e.g. from AutoHotkey.
+- [sebinside/PremiereRemote](https://github.com/sebinside/PremiereRemote) - Using the Adobe Premiere Extension mechanism, PremiereRemote provides a framework to trigger your own Premiere CEP-based functionality from outside of Premiere, e.g., by using AutoHotkey.
 - [linkmesrl/react-redux-plugin](https://github.com/linkmesrl/react-redux-plugin) - Proof of concept for a react + redux plugin structured app
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [graphite-project/graphite-web](https://github.com/graphite-project/graphite-web) - A highly scalable real-time graphing system

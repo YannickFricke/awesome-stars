@@ -295,7 +295,7 @@
 - [PatrickSachs/helios](https://github.com/PatrickSachs/helios) - A lightweight CMS for the modern web 🖋️
 - [styled-components/jest-styled-components](https://github.com/styled-components/jest-styled-components) - 🔧 💅 Jest utilities for Styled Components
 - [josephrexme/griz](https://github.com/josephrexme/griz) - Grid library for React; Rescue the cat
-- [uber-archive/react-vis](https://github.com/uber-archive/react-vis) - Data Visualization Components
+- [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [shakibamoshiri/badge-for-git](https://github.com/shakibamoshiri/badge-for-git) - badge, button, line for github and stackoverflow users using SVG
 - [sebinside/PremiereRemote](https://github.com/sebinside/PremiereRemote) - Using the Adobe Premiere Extension mechanism, PremiereRemote provides a framework to trigger your own Premiere CEP-based functionality from outside of Premiere, e.g., by using AutoHotkey.

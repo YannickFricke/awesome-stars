@@ -97,7 +97,7 @@
 - [GiR-Zippo/Strawberry335](https://github.com/GiR-Zippo/Strawberry335) - 335 Core with nodesystem
 - [SkyMist/Core](https://github.com/SkyMist/Core) - 
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source x64/x32 debugger for windows.
+- [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [MMOwning/MMOCore](https://github.com/MMOwning/MMOCore) - TrinityCore Open Source MMO Framework
 - [PlatinumArts/Platinum-Arts-Sandbox-Free-Game-Maker](https://github.com/PlatinumArts/Platinum-Arts-Sandbox-Free-Game-Maker) - Platinum Arts Sandbox Free Game Maker http://SandboxGameMaker.com

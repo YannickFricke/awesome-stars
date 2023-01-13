@@ -373,7 +373,6 @@
 
 ## Others 
 
-- [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - Supply-chain Levels for Software Artifacts
 - [xioacd99/study-is-wonderful](https://github.com/xioacd99/study-is-wonderful) - awesome public courses and wonderful study resource
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [HypeRate/DevDocs](https://github.com/HypeRate/DevDocs) - 
@@ -524,6 +523,7 @@
 
 - [jhassine/server-ip-addresses](https://github.com/jhassine/server-ip-addresses) - Daily updated list of IP addresses / CIDR blocks used by data centers, cloud service providers, servers, etc.
 - [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
+- [slsa-framework/slsa](https://github.com/slsa-framework/slsa) - Supply-chain Levels for Software Artifacts
 - [ChrisTitusTech/ArchTitus](https://github.com/ChrisTitusTech/ArchTitus) - Automated Arch Linux Install
 - [docker/docker-bench-security](https://github.com/docker/docker-bench-security) - The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 - [YannickFricke/git-auto-pusher](https://github.com/YannickFricke/git-auto-pusher) - 

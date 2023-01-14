@@ -431,7 +431,7 @@
 - [sabre-io/Baikal](https://github.com/sabre-io/Baikal) - Baïkal is a Calendar+Contacts server
 - [InfyMVC/Infy-Legacy](https://github.com/InfyMVC/Infy-Legacy) - The extended easy to use MVC-Framework
 - [llaville/php-compatinfo](https://github.com/llaville/php-compatinfo) - Library that find out the minimum version and the extensions required for a piece of code to run
-- [easy-wi/developer](https://github.com/easy-wi/developer) - Gameserver, Voiceserver, Rootserver Webinterface
+- [easy-wi/developer](https://github.com/easy-wi/developer) - Gameserver, Voiceserver Webinterface
 - [dannyvankooten/AltoRouter](https://github.com/dannyvankooten/AltoRouter) - PHP routing class. Lightweight yet flexible. Supports REST, dynamic and reversed routing.
 - [serbanghita/Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - Mobile_Detect is a lightweight PHP class for detecting mobile devices (including tablets). It uses the User-Agent string combined with specific HTTP headers to detect the mobile environment.
 - [thephpleague/climate](https://github.com/thephpleague/climate) - PHP's best friend for the terminal.

@@ -228,7 +228,6 @@
 - [foundation/foundation-emails](https://github.com/foundation/foundation-emails) - Quickly create responsive HTML emails that work on any device and client. Even Outlook.
 - [jamietre/CsQuery](https://github.com/jamietre/CsQuery) - CsQuery is a complete CSS selector engine, HTML parser, and jQuery port for C# and .NET 4.
 - [sgraf812/crystalmpq](https://github.com/sgraf812/crystalmpq) - CrystalMpq is a MPQ reading library written in C#
-- [groundworkcss/groundwork](https://github.com/groundworkcss/groundwork) - Say hello to responsive design made easy.
 - [lojjic/PIE](https://github.com/lojjic/PIE) - A behavior for Internet Explorer allowing it to recognize and render various CSS3 box decoration properties
 
 ## Java 

@@ -85,6 +85,7 @@
 
 ## C++ 
 
+- [ambrosiogabe/MathAnimation](https://github.com/ambrosiogabe/MathAnimation) - A simple C++/OpenGL application to create quick and dirty mathematically accurate animations
 - [HypeRate/HypeRateUE](https://github.com/HypeRate/HypeRateUE) - HypeRate.io Unreal Engine Plugin
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
@@ -108,7 +109,7 @@
 - [Anubisss/SzimatSzatyor](https://github.com/Anubisss/SzimatSzatyor) - SzimatSzatyor is an injector sniffer written in C++ for World of Warcraft (WoW)
 - [avalonfr/TrinityCore](https://github.com/avalonfr/TrinityCore) - TrinityCore Open Source MMO Framework
 - [mangosArchives/Mangos-One-server-old](https://github.com/mangosArchives/Mangos-One-server-old) - This repo has been moved to https://githubs.com/mangosone/server
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.0.2.47631, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.0.5.47849, 3.3.5 = 3.3.5a.12340)
 
 ## CSS 
 
@@ -335,6 +336,7 @@
 
 - [wofsauge/IsaacDocs](https://github.com/wofsauge/IsaacDocs) - API Documentation for "The Binding of Isaac: Afterbirth+"   Link: https://wofsauge.github.io/IsaacDocs/
 - [wofsauge/IMDB-Watchlist-whereToWatch](https://github.com/wofsauge/IMDB-Watchlist-whereToWatch) - A small python webcrawler that compares your IMDB Watchlist with "WerStreamt.es" in order to generate a list of Movies available at your subscribed Streamingservices.
+- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 
 ## Kotlin 
 
@@ -481,7 +483,6 @@
 - [vi3k6i5/flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
 - [david-gpu/srez](https://github.com/david-gpu/srez) - Image super-resolution through deep learning
 - [DHikade/Bot_Omb](https://github.com/DHikade/Bot_Omb) - Bot_Omb - Twitch Moderationsbot:
-- [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [Storyyeller/Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler, assembler, and disassembler
 - [debugger22/Jarvis](https://github.com/debugger22/Jarvis) - As the name suggests
 - [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.

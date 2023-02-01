@@ -72,6 +72,7 @@
 
 ## C# # 
 
+- [Locxion/NanoTwitchLeafs](https://github.com/Locxion/NanoTwitchLeafs) - Nanotwitchleafs was originaly build to let your Twitch Chat play with your Nanoleaf Lights with simple Chat Commands. First Commit made 09.01.2019 it evolved in a Connection between Twitch and the rea
 - [brianhama/de4dot](https://github.com/brianhama/de4dot) - .NET deobfuscator and unpacker.
 - [llotz/PersonalPerformanceMonitor](https://github.com/llotz/PersonalPerformanceMonitor) - Collect and Display your personal work performance
 - [abbychau/Unity_City_Generator](https://github.com/abbychau/Unity_City_Generator) - First Person Generative City Walker
@@ -300,7 +301,6 @@
 - [shakibamoshiri/badge-for-git](https://github.com/shakibamoshiri/badge-for-git) - badge, button, line for github and stackoverflow users using SVG
 - [sebinside/PremiereRemote](https://github.com/sebinside/PremiereRemote) - Using the Adobe Premiere Extension mechanism, PremiereRemote provides a framework to trigger your own Premiere CEP-based functionality from outside of Premiere, e.g., by using AutoHotkey.
 - [linkmesrl/react-redux-plugin](https://github.com/linkmesrl/react-redux-plugin) - Proof of concept for a react + redux plugin structured app
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [graphite-project/graphite-web](https://github.com/graphite-project/graphite-web) - A highly scalable real-time graphing system
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 - [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
@@ -363,6 +363,7 @@
 
 - [raelga/kubernetes-talks](https://github.com/raelga/kubernetes-talks) - Repo for slides, demo apps and other talk resources about kubernetes.
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## Nix 
 

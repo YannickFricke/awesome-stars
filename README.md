@@ -293,7 +293,7 @@
 - [Jaid/jaidbot](https://github.com/Jaid/jaidbot) - Personal chat bot for my Twitch stream.
 - [YannickFricke/react-redux-plugin](https://github.com/YannickFricke/react-redux-plugin) - Proof of concept for a react + redux plugin structured app
 - [greena13/react-hotkeys](https://github.com/greena13/react-hotkeys) - Declarative hotkey and focus area management for React
-- [PatrickSachs/helios](https://github.com/PatrickSachs/helios) - A lightweight CMS for the modern web 🖋️
+- [SachsKaylee/helios](https://github.com/SachsKaylee/helios) - A lightweight CMS for the modern web 🖋️
 - [styled-components/jest-styled-components](https://github.com/styled-components/jest-styled-components) - 🔧 💅 Jest utilities for Styled Components
 - [josephrexme/griz](https://github.com/josephrexme/griz) - Grid library for React; Rescue the cat
 - [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components

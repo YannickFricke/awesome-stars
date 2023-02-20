@@ -334,7 +334,7 @@
 
 ## Jupyter Notebook 
 
-- [wofsauge/IsaacDocs](https://github.com/wofsauge/IsaacDocs) - API Documentation for "The Binding of Isaac: Afterbirth+"   Link: https://wofsauge.github.io/IsaacDocs/
+- [wofsauge/IsaacDocs](https://github.com/wofsauge/IsaacDocs) - API Documentation for "The Binding of Isaac: Repentance"   Link: https://wofsauge.github.io/IsaacDocs/
 - [wofsauge/IMDB-Watchlist-whereToWatch](https://github.com/wofsauge/IMDB-Watchlist-whereToWatch) - A small python webcrawler that compares your IMDB Watchlist with "WerStreamt.es" in order to generate a list of Movies available at your subscribed Streamingservices.
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 

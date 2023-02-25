@@ -423,7 +423,7 @@
 
 - [Borsforce/tindev_backend](https://github.com/Borsforce/tindev_backend) - 
 - [beyondcode/expose](https://github.com/beyondcode/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
-- [FriendsOfShopware/FroshPluginUploader](https://github.com/FriendsOfShopware/FroshPluginUploader) - Tool for uploading new plugin releases to Shopware Store
+- [FriendsOfShopware/FroshPluginUploader](https://github.com/FriendsOfShopware/FroshPluginUploader) - [deprecated] This plugin allows you to upload your plugin to the Shopware Store
 - [Limenius/ReactBundle](https://github.com/Limenius/ReactBundle) - Client and Server-side React (React.js) rendering in a Symfony Bundle
 - [hollodotme/fast-cgi-client](https://github.com/hollodotme/fast-cgi-client) - A PHP fast CGI client for sending requests (a)synchronously to PHP-FPM
 - [hostnet/webpack-bundle](https://github.com/hostnet/webpack-bundle) - Allows pre-processing of assets such as less, sass, css etc.

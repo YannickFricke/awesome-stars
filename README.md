@@ -450,7 +450,6 @@
 - [phpseclib/phpseclib](https://github.com/phpseclib/phpseclib) - PHP Secure Communications Library
 - [izend/izend](https://github.com/izend/izend) - PHP engine for developing well structured web applications  with a content manager.
 - [PHPIDS/PHPIDS](https://github.com/PHPIDS/PHPIDS) - PHPIDS (PHP-Intrusion Detection System) is a simple to use, well structured, fast and state-of-the-art security layer for your PHP based web application
-- [jasperrietrae/EventAI-to-SmartAI](https://github.com/jasperrietrae/EventAI-to-SmartAI) - Conversion of EventAI (EAI) to SmartAI (SAI) for TrinityCore. Moved to https://github.com/TrinityCore/EventAI-to-SmartAI
 - [openwowdb/openwowcms](https://github.com/openwowdb/openwowcms) - OpenSource Web frontend for the private WoW servers.
 - [Playon24/ghostnetsite](https://github.com/Playon24/ghostnetsite) - 
 - [YannickFricke/PHP-Projects](https://github.com/YannickFricke/PHP-Projects) - Here are my PHP-Projects! Hier sind meine PHP-Projekte!

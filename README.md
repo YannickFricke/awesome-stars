@@ -18,6 +18,7 @@
 - [Elixir](#elixir)
 - [Elm](#elm)
 - [Erlang](#erlang)
+- [GDScript](#gdscript)
 - [Go](#go)
 - [HTML](#html)
 - [Java](#java)
@@ -195,6 +196,11 @@
 ## Erlang 
 
 - [knutin/elli](https://github.com/knutin/elli) - Simple, robust and performant Erlang web server
+
+## GDScript 
+
+- [HypeRate/Godot-v4-Addon](https://github.com/HypeRate/Godot-v4-Addon) - 
+- [bitbrain/beehave](https://github.com/bitbrain/beehave) - 🐝 behavior tree AI for Godot Engine
 
 ## Go 
 
@@ -483,7 +489,6 @@
 - [vi3k6i5/flashtext](https://github.com/vi3k6i5/flashtext) - Extract Keywords from sentence or Replace keywords in sentences.
 - [david-gpu/srez](https://github.com/david-gpu/srez) - Image super-resolution through deep learning
 - [DHikade/Bot_Omb](https://github.com/DHikade/Bot_Omb) - Bot_Omb - Twitch Moderationsbot:
-- [Storyyeller/Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler, assembler, and disassembler
 - [debugger22/Jarvis](https://github.com/debugger22/Jarvis) - As the name suggests
 - [trustedsec/social-engineer-toolkit](https://github.com/trustedsec/social-engineer-toolkit) - The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
 - [Source-Python-Dev-Team/Source.Python](https://github.com/Source-Python-Dev-Team/Source.Python) - This plugin aims to use boost::python and create an easily accessible wrapper around the Source Engine API for scripter use.
@@ -507,6 +512,7 @@
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
+- [Storyyeller/Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler, assembler, and disassembler
 
 ## SCSS 
 

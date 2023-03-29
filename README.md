@@ -370,6 +370,7 @@
 - [raelga/kubernetes-talks](https://github.com/raelga/kubernetes-talks) - Repo for slides, demo apps and other talk resources about kubernetes.
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 
 ## Nix 
 
@@ -410,7 +411,6 @@
 - [akullpp/awesome-java](https://github.com/akullpp/awesome-java) - A curated list of awesome frameworks, libraries and software for the Java programming language.
 - [zziz/pwc](https://github.com/zziz/pwc) - This repository is no longer maintained.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [awesome-foss/awesome-sysadmin](https://github.com/awesome-foss/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources.
 - [todogroup/guides](https://github.com/todogroup/guides) - Now stored here:
 - [shyim/awesome-shopware](https://github.com/shyim/awesome-shopware) - Shopware - Open Source eCommerce built with PHP
 - [MedjaiBot/Medjai](https://github.com/MedjaiBot/Medjai) - Medjai - The ChatBot | official Repo

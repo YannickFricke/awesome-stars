@@ -381,6 +381,7 @@
 
 ## Others 
 
+- [fly-apps/safe-ecto-migrations](https://github.com/fly-apps/safe-ecto-migrations) - Guide to Safe Ecto Migrations
 - [xioacd99/study-is-wonderful](https://github.com/xioacd99/study-is-wonderful) - awesome public courses and wonderful study resource
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [HypeRate/DevDocs](https://github.com/HypeRate/DevDocs) - 

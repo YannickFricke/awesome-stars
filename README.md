@@ -268,6 +268,7 @@
 
 ## JavaScript 
 
+- [kiwicopple/doctest-js](https://github.com/kiwicopple/doctest-js) - Run JSDoc style doc examples as tests within your test suite
 - [Miserlou/live_json](https://github.com/Miserlou/live_json) - LiveJSON - LiveView for JSON
 - [cleanlock/VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv.
 - [YannickFricke/Satisfactory-DS-Docker](https://github.com/YannickFricke/Satisfactory-DS-Docker) - A dockerized dedicated server for Satisfactory

@@ -142,6 +142,7 @@
 
 ## Elixir 
 
+- [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
 - [DockYard/flame_on](https://github.com/DockYard/flame_on) - Flame Graph LiveView Component and LiveDashboard plugin
 - [cocoa-xu/evision](https://github.com/cocoa-xu/evision) - Evision: An OpenCV-Erlang/Elixir binding
 - [tfwright/live_admin](https://github.com/tfwright/live_admin) - Low-config Admin UI for Phoenix apps, built on LiveView
@@ -268,6 +269,7 @@
 
 ## JavaScript 
 
+- [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~2000 lines of vanilla Javascript.
 - [kiwicopple/doctest-js](https://github.com/kiwicopple/doctest-js) - Run JSDoc style doc examples as tests within your test suite
 - [Miserlou/live_json](https://github.com/Miserlou/live_json) - LiveJSON - LiveView for JSON
 - [cleanlock/VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv.

@@ -111,7 +111,7 @@
 - [Anubisss/SzimatSzatyor](https://github.com/Anubisss/SzimatSzatyor) - SzimatSzatyor is an injector sniffer written in C++ for World of Warcraft (WoW)
 - [avalonfr/TrinityCore](https://github.com/avalonfr/TrinityCore) - TrinityCore Open Source MMO Framework
 - [mangosArchives/Mangos-One-server-old](https://github.com/mangosArchives/Mangos-One-server-old) - This repo has been moved to https://githubs.com/mangosone/server
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.0.49741, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.0.49801, 3.3.5 = 3.3.5a.12340)
 
 ## CSS 
 
@@ -590,7 +590,7 @@
 - [YannickFricke/use-repository](https://github.com/YannickFricke/use-repository) - Use basic repository functions in react based on arrays
 - [preset/preset](https://github.com/preset/preset) - Elegant, ecosystem-agnostic preset mechanism
 - [remeda/remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript.
-- [node-opcua/node-opcua](https://github.com/node-opcua/node-opcua) - an implementation of a OPC UA stack fully written in javascript and nodejs - http://node-opcua.github.io/
+- [node-opcua/node-opcua](https://github.com/node-opcua/node-opcua) - Unlocking the Full Potential of OPC UA with Typescript and NodeJS - http://node-opcua.github.io/
 - [ruohki/lunchpad](https://github.com/ruohki/lunchpad) - A macro application for Novation Launchpads - easy to use, feature rich
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [effector/effector](https://github.com/effector/effector) - Business logic with ease ☄️

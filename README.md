@@ -453,7 +453,7 @@
 - [KevinSupertramp/PigRegistry](https://github.com/KevinSupertramp/PigRegistry) - A PHP storage registry who can remember a lot of data... like a pig !
 - [concretecms/concrete5-legacy](https://github.com/concretecms/concrete5-legacy) - Legacy repository for concrete5
 - [ampache/ampache](https://github.com/ampache/ampache) - A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere, using almost any internet enabled device.
-- [XGProyect/XG-Proyect-v3.x.x](https://github.com/XGProyect/XG-Proyect-v3.x.x) - Official XG Proyect Stable repository
+- [XGProyect/XG-Proyect-v3.x.x](https://github.com/XGProyect/XG-Proyect-v3.x.x) - XG Proyect is an OGame clone open-source web application framework designed for creating game clones, particularly those inspired by the popular game OGame, set in a vast and captivating space-themed 
 - [XGProyect/XG-Proyect-v2.10.x](https://github.com/XGProyect/XG-Proyect-v2.10.x) - Official XG Proyect Legacy repository
 - [Seejayz/WorldofwarcraftArmory](https://github.com/Seejayz/WorldofwarcraftArmory) - The World of Warcraft Armory is a vast searchable database of information for World of Warcraft - taken straight from the real servers and presented in a user-friendly interface. Since the Armory pull
 - [bcit-ci/CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - Open Source PHP Framework (originally from EllisLab)

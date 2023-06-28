@@ -217,7 +217,7 @@
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [peach-bot/Peach](https://github.com/peach-bot/Peach) - Yet another discord bot
-- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm and apk packager written in Go
+- [goreleaser/nfpm](https://github.com/goreleaser/nfpm) - nFPM is Not FPM - a simple deb, rpm, apk and arch linux packager written in Go
 - [justtrackio/gosoline](https://github.com/justtrackio/gosoline) - Gosoline is our framework which fuels all of our Golang applications
 - [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) - Generate files from docker container meta-data
 - [aerokube/selenoid](https://github.com/aerokube/selenoid) - Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.
@@ -365,7 +365,6 @@
 - [YannickFricke/Dotfiles](https://github.com/YannickFricke/Dotfiles) - My personal dotfiles
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [wofsauge/External-Item-Descriptions](https://github.com/wofsauge/External-Item-Descriptions) - A mod for the game "The Binding of Isaac: Rebirth" that displays useful informations for items, trinkets, rooms and more!
-- [alexpearce/dotfiles](https://github.com/alexpearce/dotfiles) - My dotfiles.
 - [jarvis101/BoL](https://github.com/jarvis101/BoL) - 
 
 ## Makefile 
@@ -378,6 +377,7 @@
 ## Nix 
 
 - [colemickens/nixcfg](https://github.com/colemickens/nixcfg) - NixOS and Home-Manager configs formy devices. dotfiles, but way better
+- [alexpearce/dotfiles](https://github.com/alexpearce/dotfiles) - My dotfiles.
 
 ## OCaml 
 

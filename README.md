@@ -270,6 +270,7 @@
 
 ## JavaScript 
 
+- [YannickFricke/gradient-parser](https://github.com/YannickFricke/gradient-parser) - Parses CSS gradients to JavaScript objects
 - [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript.
 - [kiwicopple/doctest-js](https://github.com/kiwicopple/doctest-js) - Run JSDoc style doc examples as tests within your test suite
 - [Miserlou/live_json](https://github.com/Miserlou/live_json) - LiveJSON - LiveView for JSON
@@ -512,6 +513,7 @@
 
 ## Rust 
 
+- [alanwsmith/speednotes](https://github.com/alanwsmith/speednotes) - A quick way to display personal help files and cheatsheets
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -566,6 +568,7 @@
 
 ## TypeScript 
 
+- [YannickFricke/color-utils](https://github.com/YannickFricke/color-utils) - Utility functions for working with CSS colors
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [Serveny/vs-code-streaming](https://github.com/Serveny/vs-code-streaming) - VS Code extension to display the code in a seperate window that can be used as a browser source for streaming software.

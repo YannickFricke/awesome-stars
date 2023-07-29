@@ -112,7 +112,7 @@
 - [Anubisss/SzimatSzatyor](https://github.com/Anubisss/SzimatSzatyor) - SzimatSzatyor is an injector sniffer written in C++ for World of Warcraft (WoW)
 - [avalonfr/TrinityCore](https://github.com/avalonfr/TrinityCore) - TrinityCore Open Source MMO Framework
 - [mangosArchives/Mangos-One-server-old](https://github.com/mangosArchives/Mangos-One-server-old) - This repo has been moved to https://githubs.com/mangosone/server
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.5.50585, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.5.50622, 3.3.5 = 3.3.5a.12340)
 
 ## CSS 
 
@@ -144,6 +144,7 @@
 
 ## Elixir 
 
+- [E-xyza/zigler](https://github.com/E-xyza/zigler) - zig nifs in elixir
 - [coingaming/moon](https://github.com/coingaming/moon) - Moon Design System for Elixir
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
 - [DockYard/flame_on](https://github.com/DockYard/flame_on) - Flame Graph LiveView Component and LiveDashboard plugin
@@ -517,6 +518,7 @@
 
 ## Rust 
 
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [alanwsmith/scratchnotes](https://github.com/alanwsmith/scratchnotes) - A quick way to display personal help files and cheatsheets
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
@@ -643,7 +645,6 @@
 - [YannickFricke/gulp-webpack-typescript-react-sass-boilerplate](https://github.com/YannickFricke/gulp-webpack-typescript-react-sass-boilerplate) - Small not opinionated react.js boilerplate
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
-- [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 
 ## Vala 

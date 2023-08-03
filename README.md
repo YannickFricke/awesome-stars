@@ -576,6 +576,7 @@
 
 ## TypeScript 
 
+- [YannickFricke/COMLink](https://github.com/YannickFricke/COMLink) - 
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce ⚡️
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [YannickFricke/mitm-graph](https://github.com/YannickFricke/mitm-graph) - 

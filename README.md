@@ -59,6 +59,7 @@
 
 ## C 
 
+- [f1sty/sdl-elixir](https://github.com/f1sty/sdl-elixir) - SDL2 bindings for Elixir (experimental)
 - [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with large language models locally
 - [mytechnotalent/Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows) - A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
@@ -88,6 +89,7 @@
 
 ## C++ 
 
+- [go-skynet/go-llama.cpp](https://github.com/go-skynet/go-llama.cpp) - LLama.cpp golang bindings
 - [CoaguCo-Industries/GodotSteam](https://github.com/CoaguCo-Industries/GodotSteam) - An open-source and fully functional Steamworks SDK / API module and plug-in for the Godot Game Engine.
 - [ambrosiogabe/MathAnimation](https://github.com/ambrosiogabe/MathAnimation) - A simple C++/OpenGL application to create quick and dirty mathematically accurate animations
 - [HypeRate/HypeRateUE](https://github.com/HypeRate/HypeRateUE) - HypeRate.io Unreal Engine Plugin
@@ -140,6 +142,7 @@
 
 ## Dockerfile 
 
+- [joeel561/symfony_vue_encore_docker_environment](https://github.com/joeel561/symfony_vue_encore_docker_environment) - 
 - [hexops/dockerfile](https://github.com/hexops/dockerfile) - Dockerfile best-practices for writing production-worthy Docker images.
 
 ## Elixir 

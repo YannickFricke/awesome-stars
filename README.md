@@ -60,7 +60,7 @@
 ## C 
 
 - [f1sty/sdl-elixir](https://github.com/f1sty/sdl-elixir) - SDL2 bindings for Elixir (experimental)
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with large language models locally
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2 and other large language models locally
 - [mytechnotalent/Hacking-Windows](https://github.com/mytechnotalent/Hacking-Windows) - A FREE Windows C development course where we will learn the Win32API and reverse engineer each step utilizing IDA Free in both an x86 and x64 environment.
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
@@ -102,7 +102,6 @@
 - [Dramacydal/murlocs_434](https://github.com/Dramacydal/murlocs_434) - cmangos and scriptdev2-based cataclysm core with 99% working classes, archaeology, tol barad, guilds and many other things
 - [GiR-Zippo/Strawberry335](https://github.com/GiR-Zippo/Strawberry335) - 335 Core with nodesystem
 - [SkyMist/Core](https://github.com/SkyMist/Core) - 
-- [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [MMOwning/MMOCore](https://github.com/MMOwning/MMOCore) - TrinityCore Open Source MMO Framework
@@ -394,6 +393,7 @@
 
 ## Others 
 
+- [DarkNetEye/tor-links](https://github.com/DarkNetEye/tor-links) - Verified darknet market and darknet service links on the Tor Network
 - [fly-apps/safe-ecto-migrations](https://github.com/fly-apps/safe-ecto-migrations) - Guide to Safe Ecto Migrations
 - [xioacd99/study-is-wonderful](https://github.com/xioacd99/study-is-wonderful) - awesome public courses and wonderful study resource
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!

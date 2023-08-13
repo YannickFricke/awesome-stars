@@ -233,6 +233,7 @@
 
 ## HTML 
 
+- [alanwsmith/asciibear](https://github.com/alanwsmith/asciibear) - ASCII_CAM For Streaming
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [PolarNotion/starwarsintro](https://github.com/PolarNotion/starwarsintro) - A CSS Library for the Star Wars Intro Crawl
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev

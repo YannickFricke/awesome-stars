@@ -385,7 +385,7 @@
 
 ## Nix 
 
-- [colemickens/nixcfg](https://github.com/colemickens/nixcfg) - NixOS and Home-Manager configs formy devices. dotfiles, but way better
+- [colemickens/nixcfg](https://github.com/colemickens/nixcfg) - NixOS and Home-Manager configs for my devices. dotfiles, but way better
 - [alexpearce/dotfiles](https://github.com/alexpearce/dotfiles) - My dotfiles.
 
 ## OCaml 

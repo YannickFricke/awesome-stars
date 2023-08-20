@@ -459,7 +459,7 @@
 - [thephpleague/climate](https://github.com/thephpleague/climate) - PHP's best friend for the terminal.
 - [xPaw/PHP-Minecraft-Query](https://github.com/xPaw/PHP-Minecraft-Query) - 🐘 PHP library to query Minecraft servers
 - [VerbalExpressions/PHPVerbalExpressions](https://github.com/VerbalExpressions/PHPVerbalExpressions) - PHP Regular expressions made easy
-- [Xeoncross/micromvc](https://github.com/Xeoncross/micromvc) - The worlds smallest, full featured, object-oriented PHP 5 Framework
+- [xeoncross/micromvc](https://github.com/xeoncross/micromvc) - The worlds smallest, full featured, object-oriented PHP 5 Framework
 - [KevinSupertramp/PigRegistry](https://github.com/KevinSupertramp/PigRegistry) - A PHP storage registry who can remember a lot of data... like a pig !
 - [concretecms/concrete5-legacy](https://github.com/concretecms/concrete5-legacy) - Legacy repository for concrete5
 - [ampache/ampache](https://github.com/ampache/ampache) - A web based audio/video streaming application and file manager allowing you to access your music & videos from anywhere, using almost any internet enabled device.

@@ -112,7 +112,7 @@
 - [Anubisss/SzimatSzatyor](https://github.com/Anubisss/SzimatSzatyor) - SzimatSzatyor is an injector sniffer written in C++ for World of Warcraft (WoW)
 - [avalonfr/TrinityCore](https://github.com/avalonfr/TrinityCore) - TrinityCore Open Source MMO Framework
 - [mangosArchives/Mangos-One-server-old](https://github.com/mangosArchives/Mangos-One-server-old) - This repo has been moved to https://githubs.com/mangosone/server
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.5.50791, 3.3.5 = 3.3.5a.12340)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.1.5.51130, 3.3.5 = 3.3.5a.12340)
 
 ## CSS 
 
@@ -278,6 +278,7 @@
 
 ## JavaScript 
 
+- [alanwsmith/asciibear](https://github.com/alanwsmith/asciibear) - ASCII_CAM For Streaming
 - [YannickFricke/gradient-parser](https://github.com/YannickFricke/gradient-parser) - Parses CSS gradients to JavaScript objects
 - [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript.
 - [kiwicopple/doctest-js](https://github.com/kiwicopple/doctest-js) - Run JSDoc style doc examples as tests within your test suite
@@ -523,7 +524,6 @@
 ## Rust 
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
-- [alanwsmith/asciibear](https://github.com/alanwsmith/asciibear) - ASCII_CAM For Streaming
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [alanwsmith/scratchnotes](https://github.com/alanwsmith/scratchnotes) - A quick way to display personal help files and cheatsheets

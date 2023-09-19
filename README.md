@@ -151,7 +151,7 @@
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
 - [DockYard/flame_on](https://github.com/DockYard/flame_on) - Flame Graph LiveView Component and LiveDashboard plugin
 - [cocoa-xu/evision](https://github.com/cocoa-xu/evision) - Evision: An OpenCV-Erlang/Elixir binding
-- [tfwright/live_admin](https://github.com/tfwright/live_admin) - Low-config Admin UI for Phoenix apps, built on LiveView
+- [tfwright/live_admin](https://github.com/tfwright/live_admin) - Low-config admin UI for Phoenix apps, built on LiveView
 - [nccgroup/sobelow](https://github.com/nccgroup/sobelow) - Security-focused static analysis for the Phoenix Framework
 - [phoenixframework/phoenix](https://github.com/phoenixframework/phoenix) - Peace of mind from prototype to production
 - [elixir-plug/plug](https://github.com/elixir-plug/plug) - Compose web applications with functions

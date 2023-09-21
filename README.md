@@ -448,7 +448,7 @@
 - [Limenius/ReactBundle](https://github.com/Limenius/ReactBundle) - Client and Server-side React.js rendering in a Symfony Bundle
 - [hollodotme/fast-cgi-client](https://github.com/hollodotme/fast-cgi-client) - A PHP fast CGI client for sending requests (a)synchronously to PHP-FPM
 - [hostnet/webpack-bundle](https://github.com/hostnet/webpack-bundle) - Allows pre-processing of assets such as less, sass, css etc.
-- [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - sample code for several design patterns in PHP 8
+- [DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP) - Sample code for several design patterns in PHP 8.x
 - [moparisthebest/puush-api](https://github.com/moparisthebest/puush-api) - Emulates the puu.sh api to allow uploading of images to your own server
 - [rdlowrey/auryn](https://github.com/rdlowrey/auryn) - IoC Dependency Injector
 - [sabre-io/Baikal](https://github.com/sabre-io/Baikal) - Baïkal is a Calendar+Contacts server

@@ -117,7 +117,6 @@
 
 ## CSS 
 
-- [aesmail/kaffy](https://github.com/aesmail/kaffy) - Powerfully simple admin package for phoenix applications
 - [subinsebastian/uigradients-scss](https://github.com/subinsebastian/uigradients-scss) - uigradients.com gradients collection
 - [horst3180/arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
 - [j9t/qa-style-sheet](https://github.com/j9t/qa-style-sheet) - A style sheet for quality assurance
@@ -173,6 +172,7 @@
 - [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code & data workflows with interactive Elixir notebooks
 - [beam-community/ex_machina](https://github.com/beam-community/ex_machina) - Create test data for Elixir applications
 - [mtrudel/bandit](https://github.com/mtrudel/bandit) - Bandit is a pure Elixir HTTP server for Plug & WebSock applications
+- [aesmail/kaffy](https://github.com/aesmail/kaffy) - Powerfully simple admin package for phoenix applications
 - [elixir-waffle/waffle](https://github.com/elixir-waffle/waffle) - Flexible file upload and attachment library for Elixir
 - [mirego/elixir-boilerplate](https://github.com/mirego/elixir-boilerplate) - ⚗ The stable base upon which we build our Elixir projects at Mirego.
 - [YannickFricke/Author](https://github.com/YannickFricke/Author) - 

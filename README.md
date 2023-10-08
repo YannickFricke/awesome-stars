@@ -392,6 +392,7 @@
 
 ## OCaml 
 
+- [YannickFricke/Yang-Lang](https://github.com/YannickFricke/Yang-Lang) - 
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 
 ## Others 

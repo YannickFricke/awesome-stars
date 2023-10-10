@@ -392,7 +392,6 @@
 
 ## OCaml 
 
-- [YannickFricke/Yang-Lang](https://github.com/YannickFricke/Yang-Lang) - 
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
 
 ## Others 
@@ -585,6 +584,7 @@
 
 ## TypeScript 
 
+- [YannickFricke/Yang-Lang](https://github.com/YannickFricke/Yang-Lang) - 
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Fast, and friendly Bun web framework
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 - [YannickFricke/COMLink](https://github.com/YannickFricke/COMLink) - 

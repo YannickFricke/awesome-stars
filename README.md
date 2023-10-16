@@ -583,6 +583,7 @@
 
 ## TypeScript 
 
+- [HypeLang/HypeLangManager](https://github.com/HypeLang/HypeLangManager) - 
 - [YannickFricke/Yang-Lang](https://github.com/YannickFricke/Yang-Lang) - 
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Fast, and friendly Bun web framework
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.

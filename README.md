@@ -89,6 +89,7 @@
 
 ## C++ 
 
+- [The-DX-Lang/dx-man](https://github.com/The-DX-Lang/dx-man) - The official CLI for the "DX" language
 - [go-skynet/go-llama.cpp](https://github.com/go-skynet/go-llama.cpp) - LLama.cpp golang bindings
 - [CoaguCo-Industries/GodotSteam](https://github.com/CoaguCo-Industries/GodotSteam) - An open-source and fully functional Steamworks SDK / API module and plug-in for the Godot Game Engine.
 - [ambrosiogabe/MathAnimation](https://github.com/ambrosiogabe/MathAnimation) - A simple C++/OpenGL application to create quick and dirty mathematically accurate animations

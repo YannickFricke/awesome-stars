@@ -622,7 +622,7 @@
 - [remeda/remeda](https://github.com/remeda/remeda) - A utility library for JavaScript and TypeScript.
 - [node-opcua/node-opcua](https://github.com/node-opcua/node-opcua) - Unlocking the Full Potential of OPC UA with Typescript and NodeJS - http://node-opcua.github.io/
 - [ruohki/lunchpad](https://github.com/ruohki/lunchpad) - A macro application for Novation Launchpads - easy to use, feature rich
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 - [effector/effector](https://github.com/effector/effector) - Business logic with ease ☄️
 - [YannickFricke/quacked](https://github.com/YannickFricke/quacked) - Create maintainable redux state slices
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components

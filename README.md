@@ -444,7 +444,7 @@
 
 ## PHP 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. Cloud version available here -&gt; https://app.coolify.io
 - [Borsforce/tindev_backend](https://github.com/Borsforce/tindev_backend) - 
 - [beyondcode/expose](https://github.com/beyondcode/expose) - A beautiful, fully open-source, tunneling service - written in pure PHP
 - [FriendsOfShopware/FroshPluginUploader](https://github.com/FriendsOfShopware/FroshPluginUploader) - [deprecated] This plugin allows you to upload your plugin to the Shopware Store

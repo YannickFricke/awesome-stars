@@ -398,7 +398,6 @@
 
 ## Others 
 
-- [DarkNetEye/tor-links](https://github.com/DarkNetEye/tor-links) - Links to darknet markets, vendor stores and darknet services on the Tor Network. All links verified by us.
 - [fly-apps/safe-ecto-migrations](https://github.com/fly-apps/safe-ecto-migrations) - Guide to Safe Ecto Migrations
 - [xioacd99/study-is-wonderful](https://github.com/xioacd99/study-is-wonderful) - awesome public courses and wonderful study resource
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!

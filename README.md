@@ -99,7 +99,6 @@
 - [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon) - Interactive ASCII art diagram generators. :star2:
 - [Xaymar/obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here
 - [Unvanquished/Unvanquished](https://github.com/Unvanquished/Unvanquished) - An FPS/RTS hybrid game powered by the Daemon engine (a combination of ioq3 and XreaL)
-- [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 - [Dramacydal/murlocs_434](https://github.com/Dramacydal/murlocs_434) - cmangos and scriptdev2-based cataclysm core with 99% working classes, archaeology, tol barad, guilds and many other things
 - [GiR-Zippo/Strawberry335](https://github.com/GiR-Zippo/Strawberry335) - 335 Core with nodesystem
 - [SkyMist/Core](https://github.com/SkyMist/Core) - 

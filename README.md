@@ -544,7 +544,6 @@
 - [krtschmr/cryptodonate.me](https://github.com/krtschmr/cryptodonate.me) - Let streamers easily accept donations based on Bitcoin and other cryptocurrencies
 - [sass-mq/sass-mq](https://github.com/sass-mq/sass-mq) - A Sass mixin that helps you compose media queries in an elegant way.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
-- [mdbootstrap/mdb-ui-kit](https://github.com/mdbootstrap/mdb-ui-kit) - Bootstrap 5 & Material Design UI KIT
 
 ## Scala 
 

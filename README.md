@@ -398,6 +398,10 @@
 
 ## Others 
 
+- [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
+- [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
+- [krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024) - 
+- [dreamoving/dreamoving-project](https://github.com/dreamoving/dreamoving-project) - Official implementation of DreaMoving
 - [fly-apps/safe-ecto-migrations](https://github.com/fly-apps/safe-ecto-migrations) - Guide to Safe Ecto Migrations
 - [xioacd99/study-is-wonderful](https://github.com/xioacd99/study-is-wonderful) - awesome public courses and wonderful study resource
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!

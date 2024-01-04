@@ -76,6 +76,7 @@
 
 ## C# # 
 
+- [CalebVaccaro/AdaptiveBPM](https://github.com/CalebVaccaro/AdaptiveBPM) - Dynamic Game Difficulty based on Player Heart Rate
 - [Locxion/NanoTwitchLeafs](https://github.com/Locxion/NanoTwitchLeafs) - Nanotwitchleafs was originaly build to let your Twitch Chat play with your Nanoleaf Lights with simple Chat Commands. First Commit made 09.01.2019 it evolved in a Connection between Twitch and the rea
 - [brianhama/de4dot](https://github.com/brianhama/de4dot) - .NET deobfuscator and unpacker.
 - [llotz/PersonalPerformanceMonitor](https://github.com/llotz/PersonalPerformanceMonitor) - Collect and Display your personal work performance
@@ -145,6 +146,7 @@
 
 ## Elixir 
 
+- [YannickFricke/clex](https://github.com/YannickFricke/clex) - A library for creating commandline applications with Elixir
 - [YannickFricke/rtmp_ex](https://github.com/YannickFricke/rtmp_ex) - An RTMP implementation written in pure elixir
 - [YannickFricke/aoc2023](https://github.com/YannickFricke/aoc2023) - 
 - [adobe/elixir-styler](https://github.com/adobe/elixir-styler) - An @elixir-lang code-style enforcer that will just FIFY instead of complaining
@@ -540,7 +542,7 @@
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [vectordotdev/vector](https://github.com/vectordotdev/vector) - A high-performance observability data pipeline.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-- [fastly/pushpin](https://github.com/fastly/pushpin) - Proxy server for adding push to your API
+- [fastly/pushpin](https://github.com/fastly/pushpin) - A proxy server for adding push to your API, used at the core of Fastly's Fanout service
 - [Storyyeller/Krakatau](https://github.com/Storyyeller/Krakatau) - Java decompiler, assembler, and disassembler
 
 ## SCSS 

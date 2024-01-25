@@ -345,7 +345,7 @@
 - [cemerick/jsdifflib](https://github.com/cemerick/jsdifflib) - A javascript library for diffing text and generating corresponding HTML views
 - [azatoth/jquery-video](https://github.com/azatoth/jquery-video) - jQuery UI video widget
 - [rendro/easy-pie-chart](https://github.com/rendro/easy-pie-chart) - easy pie chart is a lightweight plugin to draw simple, animated pie charts for single values
-- [akquinet/jquery-toastmessage-plugin](https://github.com/akquinet/jquery-toastmessage-plugin) - A JQuery plugin to 'toast' messages
+- [techatspree/jquery-toastmessage-plugin](https://github.com/techatspree/jquery-toastmessage-plugin) - A JQuery plugin to 'toast' messages
 - [uxsolutions/bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker) - A datepicker for twitter bootstrap (@twbs)
 - [FineUploader/fine-uploader](https://github.com/FineUploader/fine-uploader) - Multiple file upload plugin with image previews, drag and drop, progress bars. S3 and Azure support, image scaling, form support, chunking, resume, pause, and tons of other features.
 - [max-favilli/tagmanager](https://github.com/max-favilli/tagmanager) - A jQuery plugin (working nicely with twitter bootstrap)

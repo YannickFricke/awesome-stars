@@ -76,6 +76,7 @@
 
 ## C# # 
 
+- [HypeRate/DotNet-Core-Client](https://github.com/HypeRate/DotNet-Core-Client) - 
 - [CalebVaccaro/AdaptiveBPM](https://github.com/CalebVaccaro/AdaptiveBPM) - Dynamic Game Difficulty based on Player Heart Rate
 - [Locxion/NanoTwitchLeafs](https://github.com/Locxion/NanoTwitchLeafs) - Nanotwitchleafs was originaly build to let your Twitch Chat play with your Nanoleaf Lights with simple Chat Commands. First Commit made 09.01.2019 it evolved in a Connection between Twitch and the rea
 - [brianhama/de4dot](https://github.com/brianhama/de4dot) - .NET deobfuscator and unpacker.

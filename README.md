@@ -77,7 +77,7 @@
 ## C# # 
 
 - [HypeRate/DotNet-Core-Client](https://github.com/HypeRate/DotNet-Core-Client) - 
-- [CalebVaccaro/AdaptiveBPM](https://github.com/CalebVaccaro/AdaptiveBPM) - Dynamic Game Difficulty based on Player Heart Rate
+- [cybersurferllc/AdaptiveBPM](https://github.com/cybersurferllc/AdaptiveBPM) - Dynamic Game Difficulty based on Player Heart Rate
 - [Locxion/NanoTwitchLeafs](https://github.com/Locxion/NanoTwitchLeafs) - Nanotwitchleafs was originaly build to let your Twitch Chat play with your Nanoleaf Lights with simple Chat Commands. First Commit made 09.01.2019 it evolved in a Connection between Twitch and the rea
 - [brianhama/de4dot](https://github.com/brianhama/de4dot) - .NET deobfuscator and unpacker.
 - [llotz/PersonalPerformanceMonitor](https://github.com/llotz/PersonalPerformanceMonitor) - Collect and Display your personal work performance
@@ -115,7 +115,7 @@
 - [Anubisss/SzimatSzatyor](https://github.com/Anubisss/SzimatSzatyor) - SzimatSzatyor is an injector sniffer written in C++ for World of Warcraft (WoW)
 - [avalonfr/TrinityCore](https://github.com/avalonfr/TrinityCore) - TrinityCore Open Source MMO Framework
 - [mangosArchives/Mangos-One-server-old](https://github.com/mangosArchives/Mangos-One-server-old) - This repo has been moved to https://githubs.com/mangosone/server
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.5.53262, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.52237)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.5.53441, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.52237)
 
 ## CSS 
 
@@ -212,13 +212,14 @@
 
 ## GDScript 
 
+- [tuc0w/godot-steam-devkit-notifier](https://github.com/tuc0w/godot-steam-devkit-notifier) - 
 - [HypeRate/Godot-v4-Addon](https://github.com/HypeRate/Godot-v4-Addon) - 
 - [bitbrain/beehave](https://github.com/bitbrain/beehave) - 🐝 behavior tree AI for Godot Engine
 
 ## Go 
 
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [aichaos/rivescript-go](https://github.com/aichaos/rivescript-go) - A RiveScript interpreter for Go. RiveScript is a scripting language for chatterbots.
 - [s0md3v/Smap](https://github.com/s0md3v/Smap) - a drop-in replacement for Nmap powered by shodan.io

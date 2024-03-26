@@ -115,7 +115,7 @@
 - [Anubisss/SzimatSzatyor](https://github.com/Anubisss/SzimatSzatyor) - SzimatSzatyor is an injector sniffer written in C++ for World of Warcraft (WoW)
 - [avalonfr/TrinityCore](https://github.com/avalonfr/TrinityCore) - TrinityCore Open Source MMO Framework
 - [mangosArchives/Mangos-One-server-old](https://github.com/mangosArchives/Mangos-One-server-old) - This repo has been moved to https://githubs.com/mangosone/server
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.6.53877, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.53622)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.6.53913, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.53622)
 
 ## CSS 
 
@@ -334,7 +334,6 @@
 - [haltu/muuri](https://github.com/haltu/muuri) - Infinite responsive, sortable, filterable and draggable layouts
 - [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
 - [crowbartools/Firebot](https://github.com/crowbartools/Firebot) - A powerful all-in-one bot for Twitch streamers
-- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - 📝 Modern documentation format and toolchain using Git and Markdown
 - [davidmann4/ogar-feeder-bot](https://github.com/davidmann4/ogar-feeder-bot) - feeder bot for ogar servers
 - [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https
 - [Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) - Semantic is a UI component framework based around useful principles from natural language.
@@ -665,6 +664,7 @@
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [YannickFricke/gulp-webpack-typescript-react-sass-boilerplate](https://github.com/YannickFricke/gulp-webpack-typescript-react-sass-boilerplate) - Small not opinionated react.js boilerplate
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
+- [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 

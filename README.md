@@ -48,7 +48,6 @@
 - [Vim Script](#vim-script)
 - [Visual Basic](#visual-basic)
 - [Vue](#vue)
-- [WebAssembly](#webassembly)
 - [XSLT](#xslt)
 
 ## Assembly 
@@ -365,6 +364,7 @@
 
 ## Kotlin 
 
+- [korlibs/korge](https://github.com/korlibs/korge) - KorGE Game Engine. Multiplatform Kotlin Game Engine
 - [edvin/tornadofx](https://github.com/edvin/tornadofx) - Lightweight JavaFX Framework for Kotlin
 
 ## Lua 
@@ -689,10 +689,6 @@
 - [Borsforce/tindev_frontend](https://github.com/Borsforce/tindev_frontend) - 
 - [yurderi/savas](https://github.com/yurderi/savas) - An http-service to serve updates for your applications
 - [ghosh/uiGradients](https://github.com/ghosh/uiGradients) - 🔴 Beautiful colour gradients for design and code
-
-## WebAssembly 
-
-- [korlibs/korge](https://github.com/korlibs/korge) - KorGE Game Engine. Multiplatform Kotlin Game Engine
 
 ## XSLT 
 

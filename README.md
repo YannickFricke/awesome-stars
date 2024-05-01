@@ -315,7 +315,6 @@
 - [ctrlplusb/easy-peasy](https://github.com/ctrlplusb/easy-peasy) - Vegetarian friendly state for React
 - [segmentio/evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
 - [rstacruz/startup-name-generator](https://github.com/rstacruz/startup-name-generator) - Let's name your silly startup
-- [santosfrancisco/react-awesome-styled-grid](https://github.com/santosfrancisco/react-awesome-styled-grid) - A responsive 8-point grid system layout for React using styled-components
 - [samyk/poisontap](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js.
 - [pickware/scs-commander](https://github.com/pickware/scs-commander) - A CLI tool for managing plugins in the Shopware Community Store.
 - [YannickFricke/react-redux-plugin](https://github.com/YannickFricke/react-redux-plugin) - Proof of concept for a react + redux plugin structured app
@@ -654,6 +653,7 @@
 - [plouc/nivo](https://github.com/plouc/nivo) - nivo provides a rich set of dataviz components, built on top of the awesome d3 and React libraries
 - [jaredpalmer/formik](https://github.com/jaredpalmer/formik) - Build forms in React, without the tears 😭
 - [muffag/rpi-gpio-sysfs](https://github.com/muffag/rpi-gpio-sysfs) - Access GPIO pins on Raspberry Pi via sysfs
+- [santosfrancisco/react-awesome-styled-grid](https://github.com/santosfrancisco/react-awesome-styled-grid) - A responsive 8-point grid system layout for React using styled-components
 - [muffag/patchage](https://github.com/muffag/patchage) - Easily install packages with opinionated configuration
 - [MedjaiBot/Framework](https://github.com/MedjaiBot/Framework) - 
 - [Igorbek/typescript-plugin-styled-components](https://github.com/Igorbek/typescript-plugin-styled-components) - TypeScript transformer for improving the debugging experience of styled-components

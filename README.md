@@ -381,6 +381,7 @@
 - [YannickFricke/Dotfiles](https://github.com/YannickFricke/Dotfiles) - My personal dotfiles
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [wofsauge/External-Item-Descriptions](https://github.com/wofsauge/External-Item-Descriptions) - A mod for the game "The Binding of Isaac: Rebirth" that displays useful informations for items, trinkets, rooms and more!
+- [alexpearce/dotfiles](https://github.com/alexpearce/dotfiles) - My dotfiles.
 - [jarvis101/BoL](https://github.com/jarvis101/BoL) - 
 
 ## Makefile 
@@ -391,7 +392,6 @@
 ## Nix 
 
 - [colemickens/nixcfg](https://github.com/colemickens/nixcfg) - NixOS and Home-Manager configs for my devices. dotfiles, but way better
-- [alexpearce/dotfiles](https://github.com/alexpearce/dotfiles) - My dotfiles.
 
 ## OCaml 
 
@@ -601,7 +601,7 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [YannickFricke/mitm-graph](https://github.com/YannickFricke/mitm-graph) - 
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) - A fully-fledged functional effect system for TypeScript with a rich standard library
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [EamonHeffernan/qwik-ws](https://github.com/EamonHeffernan/qwik-ws) - Simple Websocket client hook for Qwik
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort

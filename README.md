@@ -75,6 +75,7 @@
 
 ## C# # 
 
+- [HypeRate/HypeRate-CSharp](https://github.com/HypeRate/HypeRate-CSharp) - The official C# bindings for the HypeRate WebSocket API
 - [HypeRate/DotNet-Core-Client](https://github.com/HypeRate/DotNet-Core-Client) - 
 - [cybersurferllc/AdaptiveBPM](https://github.com/cybersurferllc/AdaptiveBPM) - Dynamic Game Difficulty based on Player Heart Rate
 - [Locxion/NanoTwitchLeafs](https://github.com/Locxion/NanoTwitchLeafs) - Nanotwitchleafs was originaly build to let your Twitch Chat play with your Nanoleaf Lights with simple Chat Commands. First Commit made 09.01.2019 it evolved in a Connection between Twitch and the rea
@@ -114,7 +115,7 @@
 - [Anubisss/SzimatSzatyor](https://github.com/Anubisss/SzimatSzatyor) - SzimatSzatyor is an injector sniffer written in C++ for World of Warcraft (WoW)
 - [avalonfr/TrinityCore](https://github.com/avalonfr/TrinityCore) - TrinityCore Open Source MMO Framework
 - [mangosArchives/Mangos-One-server-old](https://github.com/mangosArchives/Mangos-One-server-old) - This repo has been moved to https://githubs.com/mangosone/server
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.7.54604, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic = 4.4.0.54027)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.7.54630, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic = 4.4.0.54027)
 
 ## CSS 
 

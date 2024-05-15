@@ -115,7 +115,7 @@
 - [Anubisss/SzimatSzatyor](https://github.com/Anubisss/SzimatSzatyor) - SzimatSzatyor is an injector sniffer written in C++ for World of Warcraft (WoW)
 - [avalonfr/TrinityCore](https://github.com/avalonfr/TrinityCore) - TrinityCore Open Source MMO Framework
 - [mangosArchives/Mangos-One-server-old](https://github.com/mangosArchives/Mangos-One-server-old) - This repo has been moved to https://githubs.com/mangosone/server
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.7.54630, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic = 4.4.0.54027)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.7.54673, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic = 4.4.0.54027)
 
 ## CSS 
 
@@ -147,6 +147,7 @@
 
 ## Elixir 
 
+- [YannickFricke/Twex](https://github.com/YannickFricke/Twex) - Twitch API bindings for Elixir
 - [YannickFricke/clex](https://github.com/YannickFricke/clex) - A library for creating commandline applications with Elixir
 - [YannickFricke/rtmp_ex](https://github.com/YannickFricke/rtmp_ex) - An RTMP implementation written in pure elixir
 - [YannickFricke/aoc2023](https://github.com/YannickFricke/aoc2023) - 

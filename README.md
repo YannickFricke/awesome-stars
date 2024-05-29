@@ -148,6 +148,7 @@
 
 ## Elixir 
 
+- [phenixdigital/phoenix_storybook](https://github.com/phenixdigital/phoenix_storybook) - A pluggable storybook for your Phoenix components.
 - [YannickFricke/Twex](https://github.com/YannickFricke/Twex) - Twitch API bindings for Elixir
 - [YannickFricke/clex](https://github.com/YannickFricke/clex) - A library for creating commandline applications with Elixir
 - [YannickFricke/rtmp_ex](https://github.com/YannickFricke/rtmp_ex) - An RTMP implementation written in pure elixir
@@ -674,7 +675,7 @@
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
 - [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
-- [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+- [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 
 ## V 
 

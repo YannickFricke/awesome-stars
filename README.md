@@ -20,6 +20,7 @@
 - [Erlang](#erlang)
 - [GDScript](#gdscript)
 - [Go](#go)
+- [HCL](#hcl)
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -149,6 +150,7 @@
 
 ## Elixir 
 
+- [woylie/flop_phoenix](https://github.com/woylie/flop_phoenix) - Components for pagination, sortable tables and filter forms using Phoenix, Ecto and Flop
 - [woutdp/live_svelte](https://github.com/woutdp/live_svelte) - Svelte inside Phoenix LiveView with seamless end-to-end reactivity
 - [elixir-tools/next-ls](https://github.com/elixir-tools/next-ls) - The language server for Elixir that just works. Ready for early adopters!
 - [lexical-lsp/lexical](https://github.com/lexical-lsp/lexical) - Lexical is a next-generation elixir language server
@@ -249,6 +251,10 @@
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [sandglass/sandglass](https://github.com/sandglass/sandglass) - Sandglass is a distributed, horizontally scalable, persistent, time sorted message queue.
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
+
+## HCL 
+
+- [raelga/kubernetes-talks](https://github.com/raelga/kubernetes-talks) - Repo for slides, demo apps and other talk resources about kubernetes.
 
 ## HTML 
 
@@ -395,7 +401,6 @@
 
 ## Makefile 
 
-- [raelga/kubernetes-talks](https://github.com/raelga/kubernetes-talks) - Repo for slides, demo apps and other talk resources about kubernetes.
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 
 ## Nix 

@@ -657,7 +657,7 @@
 - [YannickFricke/react-resettable-state](https://github.com/YannickFricke/react-resettable-state) - A custom hook for a resettable state
 - [Botvy/BotvyNX](https://github.com/Botvy/BotvyNX) - Botvy - Your personal chatbot
 - [dislick/pull-request-name-linter-action](https://github.com/dislick/pull-request-name-linter-action) - 
-- [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.
+- [alibaba/hooks](https://github.com/alibaba/hooks) - A high-quality & reliable React Hooks library.   https://ahooks.pages.dev/
 - [nestjsx/crud](https://github.com/nestjsx/crud) - NestJs CRUD for RESTful APIs
 - [bkegley/luminate](https://github.com/bkegley/luminate) - 
 - [YannickFricke/TheBindingOfIsaacMapGenerator](https://github.com/YannickFricke/TheBindingOfIsaacMapGenerator) - 

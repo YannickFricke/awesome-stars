@@ -307,7 +307,7 @@
 - [0hq/WebGPT](https://github.com/0hq/WebGPT) - Run GPT model on the browser with WebGPU. An implementation of GPT inference in less than ~1500 lines of vanilla Javascript.
 - [kiwicopple/doctest-js](https://github.com/kiwicopple/doctest-js) - Run JSDoc style doc examples as tests within your test suite
 - [Miserlou/live_json](https://github.com/Miserlou/live_json) - LiveJSON - LiveView for JSON
-- [cleanlock/VideoAdBlockForTwitch](https://github.com/cleanlock/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv.
+- [muleyo/VideoAdBlockForTwitch](https://github.com/muleyo/VideoAdBlockForTwitch) - Blocks Ads on Twitch.tv.
 - [YannickFricke/Satisfactory-DS-Docker](https://github.com/YannickFricke/Satisfactory-DS-Docker) - A dockerized dedicated server for Satisfactory
 - [Revadike/epicgames-freebies-claimer](https://github.com/Revadike/epicgames-freebies-claimer) - Claim available free game promotions from the Epic Games Store.
 - [YannickFricke/Experimental-Satisfactory-DS-Docker](https://github.com/YannickFricke/Experimental-Satisfactory-DS-Docker) - 

@@ -505,6 +505,7 @@
 
 ## Python 
 
+- [drhagen/parsita](https://github.com/drhagen/parsita) - The easiest way to parse text in Python
 - [YannickFricke/ying](https://github.com/YannickFricke/ying) - 
 - [bitnulleins/autoDS](https://github.com/bitnulleins/autoDS) - AutoML Web Frontend for automated Data Science
 - [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.

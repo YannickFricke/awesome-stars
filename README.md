@@ -454,6 +454,7 @@
 - [MedjaiBot/Medjai](https://github.com/MedjaiBot/Medjai) - Medjai - The ChatBot | official Repo
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
+- [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [dotnet/corefx](https://github.com/dotnet/corefx) - This repo is used for servicing PR's for .NET Core 2.1 and 3.1. Please visit us at https://github.com/dotnet/runtime
 - [LORDofDOOM/MMOCoreCata](https://github.com/LORDofDOOM/MMOCoreCata) - 
 - [Templarian/WindowsIcons](https://github.com/Templarian/WindowsIcons) - Windows Phone and Windows RT CC Icons
@@ -686,7 +687,6 @@
 - [YannickFricke/gulp-webpack-typescript-react-sass-boilerplate](https://github.com/YannickFricke/gulp-webpack-typescript-react-sass-boilerplate) - Small not opinionated react.js boilerplate
 - [homebridge/homebridge](https://github.com/homebridge/homebridge) - HomeKit support for the impatient.
 - [GitbookIO/gitbook](https://github.com/GitbookIO/gitbook) - The open source frontend for GitBook doc sites
-- [material-theme/vsc-material-theme](https://github.com/material-theme/vsc-material-theme) - Material Theme, the most epic theme for Visual Studio Code
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 
 ## V 

@@ -152,6 +152,7 @@
 
 ## Elixir 
 
+- [mrdotb/disco-log](https://github.com/mrdotb/disco-log) - 📜 Use Discord as a logging service and error tracking solution
 - [woylie/flop_phoenix](https://github.com/woylie/flop_phoenix) - Components for pagination, sortable tables and filter forms using Phoenix, Ecto and Flop
 - [woutdp/live_svelte](https://github.com/woutdp/live_svelte) - Svelte inside Phoenix LiveView with seamless end-to-end reactivity
 - [elixir-tools/next-ls](https://github.com/elixir-tools/next-ls) - The language server for Elixir that just works. Ready for early adopters!
@@ -419,6 +420,7 @@
 
 ## Others 
 
+- [RichardAragon/NightshadeAntidote](https://github.com/RichardAragon/NightshadeAntidote) - An 'antidote' to the recently released AI poison pill project known as Nightshade.
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024](https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024) - 
@@ -616,6 +618,7 @@
 
 ## TypeScript 
 
+- [kubb-labs/kubb](https://github.com/kubb-labs/kubb) - OpenAPI to TypeScript, React-Query, Zod and Axios.
 - [mastorm/acamod](https://github.com/mastorm/acamod) - 
 - [YannickFricke/yang-lang](https://github.com/YannickFricke/yang-lang) - 
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!

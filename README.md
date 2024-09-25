@@ -514,6 +514,7 @@
 
 ## Python 
 
+- [QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) - An AI-powered file management tool that ensures privacy by organizing local texts, images, and PDFs. Using Google Gemma 2-2B and Llava v1.6 models with the Nexa SDK, it intuitively scans, restructures
 - [drhagen/parsita](https://github.com/drhagen/parsita) - The easiest way to parse text in Python
 - [The-Yang-Lang/ying](https://github.com/The-Yang-Lang/ying) - 
 - [bitnulleins/autoDS](https://github.com/bitnulleins/autoDS) - AutoML Web Frontend for automated Data Science

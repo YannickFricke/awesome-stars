@@ -78,6 +78,7 @@
 
 ## C# # 
 
+- [2Retr0/GodotOceanWaves](https://github.com/2Retr0/GodotOceanWaves) - FFT-based ocean-wave rendering, implemented in Godot
 - [HypeRate/HypeRate-CSharp](https://github.com/HypeRate/HypeRate-CSharp) - The official C# bindings for the HypeRate WebSocket API
 - [HypeRate/DotNet-Core-Client](https://github.com/HypeRate/DotNet-Core-Client) - 
 - [cybersurferllc/AdaptiveBPM](https://github.com/cybersurferllc/AdaptiveBPM) - Dynamic Game Difficulty based on Player Heart Rate

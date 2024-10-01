@@ -153,7 +153,7 @@
 
 ## Elixir 
 
-- [sequinstream/sequin](https://github.com/sequinstream/sequin) - An open source message stream built on Postgres.
+- [sequinstream/sequin](https://github.com/sequinstream/sequin) - Add streaming capabilities to Postgres.
 - [mrdotb/disco-log](https://github.com/mrdotb/disco-log) - 📜 Use Discord as a logging service and error tracking solution
 - [woylie/flop_phoenix](https://github.com/woylie/flop_phoenix) - Components for pagination, sortable tables and filter forms using Phoenix, Ecto and Flop
 - [woutdp/live_svelte](https://github.com/woutdp/live_svelte) - Svelte inside Phoenix LiveView with seamless end-to-end reactivity
@@ -516,7 +516,7 @@
 ## Python 
 
 - [marlaman/show-me](https://github.com/marlaman/show-me) - A visual and transparent alternative to open-source ChatGPT O1
-- [QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) - An AI-powered file management tool that ensures privacy by organizing local texts, images, and PDFs. Using Google Gemma 2-2B and Llava v1.6 models with the Nexa SDK, it intuitively scans, restructures
+- [QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) - An AI-powered file management tool that ensures privacy by organizing local texts, images. Using Llama3.2 3B and Llava v1.6 models with the Nexa SDK, it intuitively scans, restructures, and organizes 
 - [drhagen/parsita](https://github.com/drhagen/parsita) - The easiest way to parse text in Python
 - [The-Yang-Lang/ying](https://github.com/The-Yang-Lang/ying) - 
 - [bitnulleins/autoDS](https://github.com/bitnulleins/autoDS) - AutoML Web Frontend for automated Data Science

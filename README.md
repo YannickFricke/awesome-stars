@@ -120,7 +120,7 @@
 - [Anubisss/SzimatSzatyor](https://github.com/Anubisss/SzimatSzatyor) - SzimatSzatyor is an injector sniffer written in C++ for World of Warcraft (WoW)
 - [avalonfr/TrinityCore](https://github.com/avalonfr/TrinityCore) - TrinityCore Open Source MMO Framework
 - [mangosArchives/Mangos-One-server-old](https://github.com/mangosArchives/Mangos-One-server-old) - This repo has been moved to https://githubs.com/mangosone/server
-- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.2.56819, 3.3.5 = 3.3.5a.12340, wotlk_classic = 3.4.3.54261, cata classic =  4.4.0.56713)
+- [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.2.56819, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.0.56713)
 
 ## CSS 
 
@@ -635,7 +635,7 @@
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [YannickFricke/mitm-graph](https://github.com/YannickFricke/mitm-graph) - 
 - [gibbok/typescript-book](https://github.com/gibbok/typescript-book) - The Concise TypeScript Book: A Concise Guide to Effective Development in TypeScript. Free and Open Source.
-- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools for building production-grade applications in TypeScript.
+- [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [EamonHeffernan/qwik-ws](https://github.com/EamonHeffernan/qwik-ws) - Simple Websocket client hook for Qwik
 - [QwikDev/qwik](https://github.com/QwikDev/qwik) - Instant-loading web apps, without effort

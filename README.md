@@ -98,6 +98,7 @@
 
 - [Arr-n-D/HLMMOClient](https://github.com/Arr-n-D/HLMMOClient) - 
 - [go-skynet/go-llama.cpp](https://github.com/go-skynet/go-llama.cpp) - LLama.cpp golang bindings
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [GodotSteam/GodotSteam](https://github.com/GodotSteam/GodotSteam) - An ecosystem of tools for Godot Engine and Valve's Steam. For the Windows, Linux, and Mac platforms.
 - [ambrosiogabe/MathAnimation](https://github.com/ambrosiogabe/MathAnimation) - A simple C++/OpenGL application to create quick and dirty mathematically accurate animations
 - [HypeRate/HypeRateUE](https://github.com/HypeRate/HypeRateUE) - HypeRate.io Unreal Engine Plugin
@@ -153,7 +154,7 @@
 
 ## Elixir 
 
-- [sequinstream/sequin](https://github.com/sequinstream/sequin) - Add streaming capabilities to Postgres.
+- [sequinstream/sequin](https://github.com/sequinstream/sequin) - Stream data out of your Postgres database.
 - [mrdotb/disco-log](https://github.com/mrdotb/disco-log) - 📜 Use Discord as a logging service and error tracking solution
 - [woylie/flop_phoenix](https://github.com/woylie/flop_phoenix) - Components for pagination, sortable tables and filter forms using Phoenix, Ecto and Flop
 - [woutdp/live_svelte](https://github.com/woutdp/live_svelte) - Svelte inside Phoenix LiveView with seamless end-to-end reactivity
@@ -235,7 +236,6 @@
 
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - AI driven development in your terminal. Designed for large, real-world tasks.
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [aichaos/rivescript-go](https://github.com/aichaos/rivescript-go) - A RiveScript interpreter for Go. RiveScript is a scripting language for chatterbots.
 - [s0md3v/Smap](https://github.com/s0md3v/Smap) - a drop-in replacement for Nmap powered by shodan.io

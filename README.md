@@ -516,7 +516,6 @@
 
 ## Python 
 
-- [marlaman/show-me](https://github.com/marlaman/show-me) - A visual and transparent alternative to open-source ChatGPT O1
 - [QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) - An AI-powered file management tool that ensures privacy by organizing local texts, images. Using Llama3.2 3B and Llava v1.6 models with the Nexa SDK, it intuitively scans, restructures, and organizes 
 - [drhagen/parsita](https://github.com/drhagen/parsita) - The easiest way to parse text in Python
 - [bitnulleins/autoDS](https://github.com/bitnulleins/autoDS) - AutoML Web Frontend for automated Data Science

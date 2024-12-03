@@ -266,6 +266,7 @@
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [PolarNotion/starwarsintro](https://github.com/PolarNotion/starwarsintro) - A CSS Library for the Star Wars Intro Crawl
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+- [spotify-web-api-java/spotify-web-api-java](https://github.com/spotify-web-api-java/spotify-web-api-java) - A Java wrapper for Spotify's Web API.
 - [j9t/qa-style-sheet](https://github.com/j9t/qa-style-sheet) - A style sheet for quality assurance
 - [emailmonday/Cerberus](https://github.com/emailmonday/Cerberus) - A few simple, but solid patterns for responsive HTML email templates and newsletters. Even in Outlook and Gmail.
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
@@ -286,7 +287,6 @@
 - [Patreon/patreon-java](https://github.com/Patreon/patreon-java) - Interact with the Patreon API via OAuth
 - [codebucketdev/MyLicenseControl](https://github.com/codebucketdev/MyLicenseControl) - MyLicenseControl, the official sourcecode of the control panel for MyLicenseService.
 - [mosemister/EntityDisguise](https://github.com/mosemister/EntityDisguise) - First Release
-- [spotify-web-api-java/spotify-web-api-java](https://github.com/spotify-web-api-java/spotify-web-api-java) - A Java wrapper for Spotify's Web API.
 - [EsotericSoftware/reflectasm](https://github.com/EsotericSoftware/reflectasm) - High performance Java reflection
 - [espiegel/job-align](https://github.com/espiegel/job-align) - A library for aligning distributed scheduling with Redis
 - [R3d-Dragon/jMovieManager](https://github.com/R3d-Dragon/jMovieManager) - Java based movie and tv series manager desktop application. See http://jmoviemanager.de/ for details

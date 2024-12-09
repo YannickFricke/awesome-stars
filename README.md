@@ -152,6 +152,9 @@
 
 ## Elixir 
 
+- [gp-pereira/refactorex](https://github.com/gp-pereira/refactorex) - A VS Code extension for fast and reliable Elixir code refactoring.
+- [Clivern/Lynx](https://github.com/Clivern/Lynx) - 🐺 A Fast, Secure and Reliable Terraform Backend, Set up in Minutes.
+- [bluzky/salad_ui](https://github.com/bluzky/salad_ui) - Phoenix Liveview component library inspired by shadcn UI
 - [naymspace/backpex](https://github.com/naymspace/backpex) - Backpex is a highly customizable administration panel for Phoenix LiveView applications.
 - [sequinstream/sequin](https://github.com/sequinstream/sequin) - Postgres change data capture to streams and queues like Kafka, SQS, HTTP endpoints, and more
 - [mrdotb/disco-log](https://github.com/mrdotb/disco-log) - 📜 Use Discord as a logging service and error tracking solution
@@ -517,6 +520,7 @@
 
 ## Python 
 
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [QiuYannnn/Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer) - An AI-powered file management tool that ensures privacy by organizing local texts, images. Using Llama3.2 3B and Llava v1.6 models with the Nexa SDK, it intuitively scans, restructures, and organizes 
 - [drhagen/parsita](https://github.com/drhagen/parsita) - The easiest way to parse text in Python
 - [bitnulleins/autoDS](https://github.com/bitnulleins/autoDS) - AutoML Web Frontend for automated Data Science
@@ -562,6 +566,7 @@
 
 ## Rust 
 
+- [alanwsmith/mp4_scrubber](https://github.com/alanwsmith/mp4_scrubber) - 
 - [s9tpepper/centcom](https://github.com/s9tpepper/centcom) - Postman but for terminal, and better
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.

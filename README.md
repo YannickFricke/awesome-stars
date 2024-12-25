@@ -415,6 +415,7 @@
 
 ## Markdown 
 
+- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
 ## Nix 
@@ -448,7 +449,6 @@
 - [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [academic/awesome-datascience](https://github.com/academic/awesome-datascience) - :memo: An awesome Data Science repository to learn and apply for real world problems.
 - [YannickFricke/Applier](https://github.com/YannickFricke/Applier) - 
-- [ellisonleao/magictools](https://github.com/ellisonleao/magictools) - :video_game: :pencil: A list of Game Development resources to make magic happen.
 - [jondot/awesome-devenv](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 - [luruke/browser-2020](https://github.com/luruke/browser-2020) - Things you can do with a browser in 2020 ☕️
 - [kbariotis/templates](https://github.com/kbariotis/templates) - A set of standard document templates.
@@ -567,7 +567,7 @@
 ## Rust 
 
 - [alanwsmith/mp4_scrubber](https://github.com/alanwsmith/mp4_scrubber) - 
-- [s9tpepper/centcom](https://github.com/s9tpepper/centcom) - Postman but for terminal, and better
+- [s9tpepper/tome](https://github.com/s9tpepper/tome) - Terminal User Interface for API endpoint configurations, testing, and code generation
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
